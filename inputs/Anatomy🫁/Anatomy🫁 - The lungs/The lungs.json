@@ -1,0 +1,20 @@
+{
+  "mainTopic": {
+    "title": "The lungs",
+    "content_info": "The content includes both anatomical and phiysyologcal information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+    "subTopics": [
+      {
+        "title": "Gross anatomy of the lungs"
+      },
+      {
+        "title": "Blood supply"
+      },
+      {
+        "title": "Nervous innervation"
+      },
+      {
+        "title": "Pleura of the lungs"
+      }
+    ]
+  }
+}
