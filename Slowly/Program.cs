@@ -11,7 +11,7 @@ namespace Slowly
 
             ChatClient client = new(model: "gpt-4o", apiKey: apiKey);
 
-            ChatCompletion completion = client.CompleteChat("Say 'this is a test.'");
+            ChatCompletion completion = client.CompleteChat("Say a dad joke");
 
             Console.WriteLine($"[ASSISTANT]: {completion.Content[0].Text}");
         }
