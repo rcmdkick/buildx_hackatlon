@@ -3,6 +3,7 @@ using System.Reflection.PortableExecutable;
 using iTextSharp.text.pdf;
 using iTextSharp.text.pdf.parser;
 using System.ClientModel;
+using System.IO;
 namespace Slowly
 {
     internal class Program
@@ -18,16 +19,25 @@ namespace Slowly
 
         static void Main(string[] args)
         {
-            string[] subdirectoryEntries = Directory.GetDirectories(inputFolderPath);
-            foreach (string subdirectory in subdirectoryEntries)
+            string[] LEctures = Directory.GetDirectories(inputFolderPath);
+            foreach (string Lecture in LEctures)
             {
-                string folderName = new DirectoryInfo(subdirectory).Name;
-                ProcessSubtopic(subdirectory,folderName);
+                string LectureName = new DirectoryInfo(Lecture).Name;
+                string outputPath = outputFolderPath+"/"+LectureName;
+                string[] Subtopics = Directory.GetDirectories(Lecture);
+                foreach (var subtopic in Subtopics)
+                {
+                    string folderName = new DirectoryInfo(subtopic).Name;
+                    //string outputPath2 = outputPath+"/"+folderName;
+                    ProcessSubtopic(subtopic,folderName,outputPath);
+                }
+                
             }
 
         }
-        static string ExtractTextFromPdf(string pdfPath)
+        static string ExtractTextFromPdf(string folderpath)
         {
+            string pdfpath = FindSpecificFile(folderpath,"*.pdf");
             using (PdfReader reader = new PdfReader(pdfPath))
             {
                 StringWriter textWriter = new StringWriter();
@@ -43,12 +53,12 @@ namespace Slowly
         { 
         return File.ReadAllText(PromptPath);
         }
-        static void ProcessSubtopic(string folderPath, string topicname)
+        static void ProcessSubtopic(string folderPath, string topicname,string outputpath)
         {
             ChatClient client = new(model: "gpt-4o", apiKey: apiKey);
-            string extractedText = ExtractTextFromPdf(pdfPath);
-
-            CollectionResult<StreamingChatCompletionUpdate> completionUpdates = client.CompleteChatStreaming(GetInstructionPrompt() + "\n\n" + extractedText);
+            string extractedText = ExtractTextFromPdf(folderPath);
+            string Metadata = GetMetadata(folderPath);
+            CollectionResult<StreamingChatCompletionUpdate> completionUpdates = client.CompleteChatStreaming(GetInstructionPrompt() + "\n Use these topics: " + Metadata +"\n Here is the lecture itself: " + extractedText);
             string output = "";
             Console.Write($"[ASSISTANT]: ");
             foreach (StreamingChatCompletionUpdate completionUpdate in completionUpdates)
@@ -61,7 +71,11 @@ namespace Slowly
                     output += newUpdate;
                 }
             }
-            File.WriteAllText(folderPath+"/"+topicname+".json", output);
+            if (!Directory.Exists(outputpath))
+            {
+                Directory.CreateDirectory(outputpath);
+            }
+            File.WriteAllText(System.IO.Path.Combine(outputpath,topicname)+".json", output);
         }
         static string FindSpecificFile(string directoryPath, string extension)
         {
@@ -83,6 +97,11 @@ namespace Slowly
                 Console.WriteLine($"An error occurred: {e.Message}");
             }
             return "";
+        }
+        static string GetMetadata(string folder)
+        {
+            string metadataFile = FindSpecificFile(folder, "*.json");
+            return File.ReadAllText(metadataFile);
         }
     }
 }
