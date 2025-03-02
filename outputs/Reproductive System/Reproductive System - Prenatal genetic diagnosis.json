@@ -1,0 +1,93 @@
+{
+ "mainTopic": {
+    "title": "Prenatal genetic diagnosis",
+    "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+    "team_name": "CyberMed",
+    "subTopics": [
+      {
+        "title": "Indications, AFP",
+        "quizzes": [
+          {
+            "question": "What are the primary indications for prenatal genetic diagnosis?",
+            "goodAnswer": "Advanced maternal age, family history of genetic disorders, and abnormal screening results.",
+            "wrongAnswer_1": "Lack of prenatal care.",
+            "wrongAnswer_2": "Unplanned pregnancy.",
+            "wrongAnswer_3": "Maternal stress.",
+            "wrongAnswer_4": "Previous multiple pregnancies."
+          },
+          {
+            "question": "What does AFP stand for in prenatal screenings?",
+            "goodAnswer": "Alpha-fetoprotein.",
+            "wrongAnswer_1": "Amniotic fluid protein.",
+            "wrongAnswer_2": "Anomalous fetal protein.",
+            "wrongAnswer_3": "Anti-fetal protein.",
+            "wrongAnswer_4": "Abnormal fetal presence."
+          }
+        ]
+      },
+      {
+        "title": "Sonography, Triple Screen, First Trimester Screening",
+        "quizzes": [
+          {
+            "question": "How does sonography contribute to prenatal genetic diagnosis?",
+            "goodAnswer": "It provides detailed images of the fetus to identify structural abnormalities.",
+            "wrongAnswer_1": "It measures maternal blood pressure.",
+            "wrongAnswer_2": "It assesses fetal heart sounds.",
+            "wrongAnswer_3": "It calculates gestational age using maternal diet.",
+            "wrongAnswer_4": "It checks the mother's hormone levels."
+          },
+          {
+            "question": "What components are assessed in the triple screen test?",
+            "goodAnswer": "AFP, hCG, and estriol.",
+            "wrongAnswer_1": "AFP, progesterone, and insulin.",
+            "wrongAnswer_2": "AFP, LH, and FSH.",
+            "wrongAnswer_3": "Estriol, LH, and testosterone.",
+            "wrongAnswer_4": "Estriol, progesterone, and cortisol."
+          }
+        ]
+      },
+      {
+        "title": "Inhibin, Nuchal Translucency, PAPP",
+        "quizzes": [
+          {
+            "question": "What does increased nuchal translucency indicate in a first trimester screening?",
+            "goodAnswer": "Higher risk of Down syndrome and other chromosomal abnormalities.",
+            "wrongAnswer_1": "Improved fetal health.",
+            "wrongAnswer_2": "Decreased risk of congenital neural tube defects.",
+            "wrongAnswer_3": "Increased fetal movement.",
+            "wrongAnswer_4": "Enhanced maternal immunity."
+          },
+          {
+            "question": "What role does PAPP-A play in pregnancy screening?",
+            "goodAnswer": "It is used to assess risks of chromosomal abnormalities in the first trimester.",
+            "wrongAnswer_1": "It predicts the gestational age of the fetus.",
+            "wrongAnswer_2": "It measures maternal nutrient levels.",
+            "wrongAnswer_3": "It indicates the amount of amniotic fluid.",
+            "wrongAnswer_4": "It evaluates the size of the placenta."
+          }
+        ]
+      },
+      {
+        "title": "Screening Strategies, Chorionic Villus Sampling",
+        "quizzes": [
+          {
+            "question": "What is the purpose of chorionic villus sampling in genetic diagnosis?",
+            "goodAnswer": "To obtain fetal tissue for genetic analysis.",
+            "wrongAnswer_1": "To detect maternal infections.",
+            "wrongAnswer_2": "To measure amniotic fluid levels.",
+            "wrongAnswer_3": "To assess fetal heart rate.",
+            "wrongAnswer_4": "To monitor maternal blood pressure."
+          },
+          {
+            "question": "What is a key advantage of first trimester screening strategies?",
+            "goodAnswer": "Early detection of chromosomal abnormalities.",
+            "wrongAnswer_1": "Lower cost compared to other screenings.",
+            "wrongAnswer_2": "It predicts the exact birth weight.",
+            "wrongAnswer_3": "It provides a comprehensive nutritional profile.",
+            "wrongAnswer_4": "Shorter duration of the ultrasound procedure."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "mainTopic": {
+    "title": "Alimentary canal organs",
+    "content_info": "The content includes both anatomical and physiological information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+    "team_name": "CyberMed",
+    "subTopics": [
+      {
+        "title": "The mouth",
+        "quizzes": [
+          {
+            "question": "What is the structural composition of the hard and soft palate in the mouth?",
+            "goodAnswer": "The hard palate is made of bone, while the soft palate is made of skeletal muscle.",
+            "wrongAnswer_1": "Both the hard and soft palate are made of bone.",
+            "wrongAnswer_2": "The hard palate is muscle, while the soft palate is bone.",
+            "wrongAnswer_3": "The hard palate is cartilage, while the soft palate is muscle.",
+            "wrongAnswer_4": "Both the hard and soft palate are made of cartilage."
+          },
+          {
+            "question": "Which type of papillae on the tongue contain taste buds?",
+            "goodAnswer": "Fungiform papillae.",
+            "wrongAnswer_1": "Filiform papillae.",
+            "wrongAnswer_2": "Vallate papillae.",
+            "wrongAnswer_3": "Foliate papillae.",
+            "wrongAnswer_4": "Circumvallate papillae."
+          }
+        ]
+      },
+      {
+        "title": "Pharynx",
+        "quizzes": [
+          {
+            "question": "What are the anatomical regions of the pharynx involved in the digestive process?",
+            "goodAnswer": "Oropharynx and laryngopharynx.",
+            "wrongAnswer_1": "Nasopharynx and laryngopharynx.",
+            "wrongAnswer_2": "Oropharynx and nasopharynx.",
+            "wrongAnswer_3": "Epiglottis and nasopharynx.",
+            "wrongAnswer_4": "Nasopharynx and esophagus."
+          }
+        ]
+      },
+      {
+        "title": "Esophagus",
+        "quizzes": [
+          {
+            "question": "How does the esophagus connect to the stomach?",
+            "goodAnswer": "Through the lower esophageal sphincter.",
+            "wrongAnswer_1": "Through the pyloric sphincter.",
+            "wrongAnswer_2": "Through the upper esophageal sphincter.",
+            "wrongAnswer_3": "Through the cardiac sphincter.",
+            "wrongAnswer_4": "Through the duodenal sphincter."
+          }
+        ]
+      },
+      {
+        "title": "The stomach",
+        "quizzes": [
+          {
+            "question": "What are the four main regions of the stomach?",
+            "goodAnswer": "Cardia, fundus, body, pylorus.",
+            "wrongAnswer_1": "Cardia, duodenum, ileum, jejunum.",
+            "wrongAnswer_2": "Antrum, fundus, body, pylorus.",
+            "wrongAnswer_3": "Fundus, pylorus, duodenum, ileum.",
+            "wrongAnswer_4": "Cardia, body, cecum, pylorus."
+          }
+        ]
+      },
+      {
+        "title": "The small intestines",
+        "quizzes": [
+          {
+            "question": "Which structure increases the absorptive surface area in the small intestines?",
+            "goodAnswer": "Villi.",
+            "wrongAnswer_1": "Plicae circulares.",
+            "wrongAnswer_2": "Rugae.",
+            "wrongAnswer_3": "Teniae coli.",
+            "wrongAnswer_4": "Epiploic appendages."
+          }
+        ]
+      },
+      {
+        "title": "The large intestines",
+        "quizzes": [
+          {
+            "question": "What is the main function of the large intestine?",
+            "goodAnswer": "Absorption of water and formation of feces.",
+            "wrongAnswer_1": "Lipid digestion and absorption.",
+            "wrongAnswer_2": "Initial digestion of proteins.",
+            "wrongAnswer_3": "Carbohydrate digestion and absorption.",
+            "wrongAnswer_4": "Absorption of amino acids."
+          }
+        ]
+      }
+    ]
+  }
+}

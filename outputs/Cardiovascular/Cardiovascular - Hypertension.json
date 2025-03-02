@@ -1,0 +1,87 @@
+{
+ "mainTopic": {
+    "title": "Hypertension",
+     "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+     "team_name": "CyberMed",
+     "subTopics": [
+       {
+         "title": "Blood pressure classificatinon",
+         "quizzes": [
+           {
+             "question": "What are the primary categories used in the classification of hypertension?",
+             "goodAnswer": "Normal, elevated, stage 1 and stage 2 hypertension.",
+             "wrongAnswer_1": "Mild, moderate, severe, and crisis hypertension.",
+             "wrongAnswer_2": "Immediate, transient, chronic, and latent hypertension.",
+             "wrongAnswer_3": "Childhood, adult, elderly, and gestational hypertension.",
+             "wrongAnswer_4": "Stage A, B, C, and D hypertension."
+           }
+         ]
+       },
+       {
+         "title": "Blood pressure regulation",
+         "quizzes": [
+           {
+             "question": "Which system plays a major role in long-term regulation of blood pressure?",
+             "goodAnswer": "Renin-angiotensin-aldosterone system (RAAS)",
+             "wrongAnswer_1": "Parasympathetic nervous system",
+             "wrongAnswer_2": "Digestive endocrine system",
+             "wrongAnswer_3": "Pulmonary oxygen exchange",
+             "wrongAnswer_4": "Cerebral autoregulation system"
+           }
+         ]
+       },
+       {
+         "title": "Sequelae of Essential hypertension",
+         "quizzes": [
+           {
+             "question": "What conditions are commonly associated as sequelae of essential hypertension?",
+             "goodAnswer": "Stroke, heart failure, and kidney disease.",
+             "wrongAnswer_1": "Arthritis, diabetes, and chronic fatigue syndrome.",
+             "wrongAnswer_2": "Asthma, bronchitis, and emphysema.",
+             "wrongAnswer_3": "Anemia, leukopenia, and thrombocytopenia.",
+             "wrongAnswer_4": "Alzheimer's disease, Parkinson's disease, and Huntington's disease."
+           }
+         ]
+       },
+       {
+         "title": "Blood pressure measurement",
+         "quizzes": [
+           {
+             "question": "What is the standard method for clinically measuring blood pressure?",
+             "goodAnswer": "Using a sphygmomanometer",
+             "wrongAnswer_1": "MRI scanning",
+             "wrongAnswer_2": "Electrocardiogram (ECG)",
+             "wrongAnswer_3": "Ultrasound imaging",
+             "wrongAnswer_4": "Blood glucose testing"
+           }
+         ]
+       },
+       {
+         "title": "Evaluation and causes of hypertension",
+         "quizzes": [
+           {
+             "question": "Which factor is not typically evaluated when diagnosing the causes of hypertension?",
+             "goodAnswer": "Hair color",
+             "wrongAnswer_1": "Genetic predisposition",
+             "wrongAnswer_2": "Dietary habits",
+             "wrongAnswer_3": "Physical activity levels",
+             "wrongAnswer_4": "Stress levels"
+           }
+         ]
+       },
+       {
+         "title": "Goal of hypertension prevention and management",
+         "quizzes": [
+           {
+             "question": "What is the primary goal in managing hypertension?",
+             "goodAnswer": "To reduce the risk of cardiovascular disease and stroke.",
+             "wrongAnswer_1": "To improve vision and hearing.",
+             "wrongAnswer_2": "To increase bone density.",
+             "wrongAnswer_3": "To promote hair growth.",
+             "wrongAnswer_4": "To enhance digestive efficiency."
+           }
+         ]
+       }
+     ]
+   }
+}

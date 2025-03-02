@@ -1,0 +1,93 @@
+{
+ "mainTopic": {
+    "title": "Mitral stenosis",
+    "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+    "team_name": "CyberMed",
+    "subTopics": [
+      {
+        "title": "Etiology, Pathophysiology",
+        "quizzes": [
+          {
+            "question": "What is the primary cause of mitral stenosis?",
+            "goodAnswer": "Rheumatic fever",
+            "wrongAnswer_1": "Congenital defect",
+            "wrongAnswer_2": "Hypertension",
+            "wrongAnswer_3": "Coronary artery disease",
+            "wrongAnswer_4": "Atrial fibrillation"
+          },
+          {
+            "question": "Which valve is primarily affected in mitral stenosis?",
+            "goodAnswer": "Mitral valve",
+            "wrongAnswer_1": "Aortic valve",
+            "wrongAnswer_2": "Tricuspid valve",
+            "wrongAnswer_3": "Pulmonary valve",
+            "wrongAnswer_4": "Septal valve"
+          }
+        ]
+      },
+      {
+        "title": "Clinical features",
+        "quizzes": [
+          {
+            "question": "Which symptom is commonly associated with mitral stenosis?",
+            "goodAnswer": "Shortness of breath",
+            "wrongAnswer_1": "Chest pain",
+            "wrongAnswer_2": "Palpitations",
+            "wrongAnswer_3": "Headaches",
+            "wrongAnswer_4": "Abdominal pain"
+          },
+          {
+            "question": "What heart sound is characteristic of mitral stenosis?",
+            "goodAnswer": "Opening snap",
+            "wrongAnswer_1": "Systolic click",
+            "wrongAnswer_2": "Third heart sound",
+            "wrongAnswer_3": "Fourth heart sound",
+            "wrongAnswer_4": "Ejection sound"
+          }
+        ]
+      },
+      {
+        "title": "Diagnostic testing, Differential diagnosis",
+        "quizzes": [
+          {
+            "question": "Which imaging modality is most useful in diagnosing mitral stenosis?",
+            "goodAnswer": "Echocardiography",
+            "wrongAnswer_1": "CT scan",
+            "wrongAnswer_2": "MRI",
+            "wrongAnswer_3": "X-ray",
+            "wrongAnswer_4": "Angiography"
+          },
+          {
+            "question": "What is an important differential diagnosis to consider with mitral stenosis?",
+            "goodAnswer": "Atrial myxoma",
+            "wrongAnswer_1": "Mitral valve prolapse",
+            "wrongAnswer_2": "Left ventricular hypertrophy",
+            "wrongAnswer_3": "Aortic regurgitation",
+            "wrongAnswer_4": "Pulmonary embolism"
+          }
+        ]
+      },
+      {
+        "title": "Management",
+        "quizzes": [
+          {
+            "question": "What is a common surgical procedure used to treat severe mitral stenosis?",
+            "goodAnswer": "Balloon valvotomy",
+            "wrongAnswer_1": "CABG",
+            "wrongAnswer_2": "Aortic valve replacement",
+            "wrongAnswer_3": "Stent placement",
+            "wrongAnswer_4": "Septal myectomy"
+          },
+          {
+            "question": "Which medication class is often used to manage symptoms of mitral stenosis?",
+            "goodAnswer": "Diuretics",
+            "wrongAnswer_1": "Beta-blockers",
+            "wrongAnswer_2": "ACE inhibitors",
+            "wrongAnswer_3": "Calcium channel blockers",
+            "wrongAnswer_4": "Anticoagulants"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+ "mainTopic": {
+    "title": "Lipid Lowering Drugs",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "team_name": "CyberMed",
+    "subTopics": [
+      {
+        "title": "Overview of atherosclerosis",
+        "quizzes": [
+          {
+            "question": "What are the major risk factors associated with atherosclerosis?",
+            "goodAnswer": "Longevity, hypertension, diabetes, dyslipoproteinemia, cigarette smoking",
+            "wrongAnswer_1": "Only hypertension and diabetes",
+            "wrongAnswer_2": "Only longevity and cigarette smoking",
+            "wrongAnswer_3": "Hypertension, longevity and vitamin deficiency",
+            "wrongAnswer_4": "Diabetes, smoking, and excess caffeine consumption"
+          },
+          {
+            "question": "What is the function of Lp(a) lipoprotein in relation to atherosclerosis?",
+            "goodAnswer": "It inhibits tissue plasminogen activator and increases thrombosis risk",
+            "wrongAnswer_1": "It promotes cholesterol breakdown",
+            "wrongAnswer_2": "It reduces inflammation in arteries",
+            "wrongAnswer_3": "It enhances the flexibility of arteries",
+            "wrongAnswer_4": "It assists in the reduction of blood pressure"
+          },
+          {
+            "question": "How does chronic bacterial infection contribute to atherosclerosis?",
+            "goodAnswer": "It promotes the inflammation process within arteries",
+            "wrongAnswer_1": "It directly lowers cholesterol levels",
+            "wrongAnswer_2": "It reduces platelet aggregation",
+            "wrongAnswer_3": "It neutralizes LDL particles",
+            "wrongAnswer_4": "It strengthens the arterial walls"
+          }
+        ]
+      },
+      {
+        "title": "Transmembrane receptors on mammalian cells, Apolipoproteins, sterols and lipoprotein cycles",
+        "quizzes": [
+          {
+            "question": "What is the role of the LDL receptor in lipid metabolism?",
+            "goodAnswer": "Regulates cholesterol levels by mediating translocation into the cell",
+            "wrongAnswer_1": "Directly degrades LDL in the plasma",
+            "wrongAnswer_2": "Promotes bile acid production from cholesterol",
+            "wrongAnswer_3": "Enhances the synthesis of triglycerides",
+            "wrongAnswer_4": "Inhibits the function of HMG-CoA reductase"
+          },
+          {
+            "question": "What distinguishes plant sterols from animal sterols?",
+            "goodAnswer": "Sitosterol is the major plant sterol and cholesterol is the major animal sterol",
+            "wrongAnswer_1": "Cholesterol is the primary sterol in both plants and animals",
+            "wrongAnswer_2": "Sitosterol is the main sterol found in both plants and animals",
+            "wrongAnswer_3": "Plant sterols are absorbed more efficiently than animal sterols",
+            "wrongAnswer_4": "Animal sterols are not essential for human health"
+          },
+          {
+            "question": "How is HDL involved in cholesterol transport?",
+            "goodAnswer": "It scavenges cholesterol from tissues and transports it to the liver or other sites",
+            "wrongAnswer_1": "It directly converts cholesterol into triglycerides",
+            "wrongAnswer_2": "It decreases cholesterol absorption in the intestines",
+            "wrongAnswer_3": "It enhances the storage of cholesterol in adipose tissue",
+            "wrongAnswer_4": "It prevents cholesterol entry into cells"
+          }
+        ]
+      },
+      {
+        "title": "Lipid lowering drugs",
+        "quizzes": [
+          {
+            "question": "What is the primary mechanism of action of statins?",
+            "goodAnswer": "They competitively inhibit HMG-CoA reductase, reducing cholesterol synthesis",
+            "wrongAnswer_1": "They directly increase the excretion of cholesterol in the feces",
+            "wrongAnswer_2": "They bind cholesterol in the blood, making it inactive",
+            "wrongAnswer_3": "They enhance cholesterol absorption in the intestines",
+            "wrongAnswer_4": "They activate the LDL receptor directly"
+          },
+          {
+            "question": "How do bile acid-binding resins lower LDL levels?",
+            "goodAnswer": "By increasing bile acid excretion, which upregulates LDL receptor activity",
+            "wrongAnswer_1": "By blocking cholesterol synthesis in the liver",
+            "wrongAnswer_2": "By directly binding LDL particles in the blood",
+            "wrongAnswer_3": "By enhancing HDL synthesis",
+            "wrongAnswer_4": "By reducing triglyceride levels in the plasma"
+          },
+          {
+            "question": "What is a unique effect of niacin compared to other lipid-lowering agents?",
+            "goodAnswer": "It increases HDL levels while also decreasing Lp(a)",
+            "wrongAnswer_1": "It only decreases triglyceride levels significantly",
+            "wrongAnswer_2": "It solely focuses on reducing LDL levels",
+            "wrongAnswer_3": "It primarily targets the synthesis of bile acids",
+            "wrongAnswer_4": "It does not affect triglyceride or cholesterol levels"
+          }
+        ]
+      },
+      {
+        "title": "Investigational treatments of atherosclerosis and non-drug treatment: LDL apheresis",
+        "quizzes": [
+          {
+            "question": "What is LDL apheresis primarily used for?",
+            "goodAnswer": "Lowering LDL in cases of homozygous LDL receptor deficiency",
+            "wrongAnswer_1": "Increasing HDL levels in the blood",
+            "wrongAnswer_2": "Reducing blood pressure significantly",
+            "wrongAnswer_3": "Enhancing triglyceride breakdown",
+            "wrongAnswer_4": "Primarily treating familial hypercholesterolemia"
+          },
+          {
+            "question": "What is a major limitation of LDL apheresis?",
+            "goodAnswer": "It is limited by cost and inconvenience",
+            "wrongAnswer_1": "It has significant adverse effects on liver function",
+            "wrongAnswer_2": "It cannot be used in patients under the age of 50",
+            "wrongAnswer_3": "It is ineffective in decreasing cholesterol absorption",
+            "wrongAnswer_4": "It drastically increases the risk of atherosclerosis progression"
+          },
+          {
+            "question": "What effect do MTP inhibitors have in investigational treatments?",
+            "goodAnswer": "They inhibit VLDL production and lower cholesterol exit from the liver",
+            "wrongAnswer_1": "They increase HDL synthesis in the intestines",
+            "wrongAnswer_2": "They directly convert cholesterol into bile acids",
+            "wrongAnswer_3": "They enhance triglyceride uptake by adipose tissue",
+            "wrongAnswer_4": "They significantly reduce the synthesis of apoB-100"
+          }
+        ]
+      }
+    ]
+  }
+}

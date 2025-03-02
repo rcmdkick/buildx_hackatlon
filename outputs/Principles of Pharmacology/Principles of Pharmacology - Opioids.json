@@ -1,0 +1,114 @@
+{
+  "mainTopic": {
+    "title": "Opioids",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "team_name": "CyberMed",
+    "subTopics": [
+      {
+        "title": "Definitions and structure-activity relationship",
+        "quizzes": [
+          {
+            "question": "What are opioids and how are they structurally related to morphine?",
+            "goodAnswer": "Opioids are natural or synthetic compounds with morphine-like properties; they are structurally related to morphine by having up to 5 distinctive rings.",
+            "wrongAnswer_1": "Opioids are synthetic compounds only and have no structural relation to morphine.",
+            "wrongAnswer_2": "Opioids have no specific structure and are created through random synthesis.",
+            "wrongAnswer_3": "Opioids are always derived from codeine and have 3 distinctive rings.",
+            "wrongAnswer_4": "Opioids have no relation to morphine and do not possess any ring structure."
+          },
+          {
+            "question": "How does replacing the N-methyl group in morphine affect its properties?",
+            "goodAnswer": "Replacing the N-methyl group with larger groups like allyl often creates opioid antagonists.",
+            "wrongAnswer_1": "Replacing the N-methyl group enhances agonist activity and potency.",
+            "wrongAnswer_2": "Replacing the N-methyl group turns it into a non-opioid substance.",
+            "wrongAnswer_3": "The N-methyl group replacement has no effect on opioid properties.",
+            "wrongAnswer_4": "Replacing the N-methyl group causes the compound to lose all opioid activity."
+          }
+        ]
+      },
+      {
+        "title": "Classification of Opioids",
+        "quizzes": [
+          {
+            "question": "On what basis are opioids classified into agonists, antagonists, and mixed agonist-antagonists?",
+            "goodAnswer": "Opioids are classified based on their interaction with receptor subtypes like µ, κ, and δ.",
+            "wrongAnswer_1": "Opioid classification is based solely on their natural or synthetic origin.",
+            "wrongAnswer_2": "Opioids are classified based on their color and taste.",
+            "wrongAnswer_3": "Classification is based on the speed of action.",
+            "wrongAnswer_4": "Opioids are classified based on patient preferences."
+          },
+          {
+            "question": "What characterizes opioid agonists?",
+            "goodAnswer": "Opioid agonists have high affinity and activity at opioid receptors to provide analgesia.",
+            "wrongAnswer_1": "Opioid agonists only block opioid receptors and prevent any response.",
+            "wrongAnswer_2": "Opioid agonists have no effect on any receptor types.",
+            "wrongAnswer_3": "Agonists decrease the synthesis of enkephalins in the body.",
+            "wrongAnswer_4": "Agonists work by stimulating the metabolism of codeine."
+          }
+        ]
+      },
+      {
+        "title": "Endogenous Opioid Peptides",
+        "quizzes": [
+          {
+            "question": "What are enkephalins and what role do they play in the body?",
+            "goodAnswer": "Enkephalins are endogenous opioids that modulate neurotransmitter release and are selective for δ receptors.",
+            "wrongAnswer_1": "Enkephalins are dietary supplements with no role in neurotransmitter modulation.",
+            "wrongAnswer_2": "They are synthetic drugs that inhibit all neurotransmitter activity.",
+            "wrongAnswer_3": "Enkephalins are enzymes that degrade neurotransmitters.",
+            "wrongAnswer_4": "They serve solely as structural proteins in neurons."
+          },
+          {
+            "question": "Which endogenous opioid peptide is derived from proopiomelanocortin (POMC)?",
+            "goodAnswer": "Endorphins, chiefly β-endorphin, are derived from POMC.",
+            "wrongAnswer_1": "Only enkephalins are derived from POMC.",
+            "wrongAnswer_2": "Dynorphins are solely derived from POMC.",
+            "wrongAnswer_3": "All opioid peptides are derived from dopamine.",
+            "wrongAnswer_4": "α-endorphins, which don't exist, are derived from POMC."
+          }
+        ]
+      },
+      {
+        "title": "Pharmacodynamics and pharmacokinetics of opioid agonists",
+        "quizzes": [
+          {
+            "question": "How do opioids produce analgesic effects in the central nervous system?",
+            "goodAnswer": "Opioids inhibit adenylyl cyclase, modulate receptor-ion interactions, and alter neurotransmitter release specific to pain pathways.",
+            "wrongAnswer_1": "Opioids enhance serotonin uptake exclusively to provide analgesia.",
+            "wrongAnswer_2": "They act solely by causing vasoconstriction in the brain.",
+            "wrongAnswer_3": "Opioids increase the production of adrenaline to relieve pain.",
+            "wrongAnswer_4": "They work by directly stimulating pain receptors."
+          },
+          {
+            "question": "What is the role of adenylyl cyclase in opioid pharmacodynamics?",
+            "goodAnswer": "Opioids inhibit adenylyl cyclase, leading to decreased cAMP and modulation of pain signaling.",
+            "wrongAnswer_1": "Adenylyl cyclase is stimulated by opioids to enhance pain transmission.",
+            "wrongAnswer_2": "It is unaffected by opioids and plays no role in their pharmacodynamics.",
+            "wrongAnswer_3": "Adenylyl cyclase causes vasodilation in response to opioids.",
+            "wrongAnswer_4": "Opioids use adenylyl cyclase to increase blood glucose levels."
+          }
+        ]
+      },
+      {
+        "title": "Opioid Antagonists and Agonist-Antagonists",
+        "quizzes": [
+          {
+            "question": "How do opioid antagonists like naloxone work?",
+            "goodAnswer": "Naloxone is a pure antagonist that competitively binds to µ, κ, and δ receptors to reverse opioid effects.",
+            "wrongAnswer_1": "Naloxone binds with high affinity to blood lipids, enhancing opioid effects.",
+            "wrongAnswer_2": "Naloxone only binds to δ receptors and enhances opioid analgesia.",
+            "wrongAnswer_3": "Naloxone promotes the production of more endogenous opioids in the body.",
+            "wrongAnswer_4": "It inhibits all neural activity, not specific to opioid receptors."
+          },
+          {
+            "question": "What are the characteristics of opioid agonist-antagonists?",
+            "goodAnswer": "They have both analgesic properties and the ability to antagonize the effects of pure opioid agonists.",
+            "wrongAnswer_1": "They solely bind to peripheral nerves to treat inflammation.",
+            "wrongAnswer_2": "Agonist-antagonists amplify the effects of opioid withdrawal.",
+            "wrongAnswer_3": "They mimic all effects of opioids without any antagonist activity.",
+            "wrongAnswer_4": "Agonist-antagonists enhance digestion and have no effect on pain."
+          }
+        ]
+      }
+    ]
+  }
+}

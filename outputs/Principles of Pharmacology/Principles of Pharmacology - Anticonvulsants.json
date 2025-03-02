@@ -1,0 +1,154 @@
+{
+  "mainTopic": {
+    "title": "Anticonvulsants",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "team_name": "CyberMed",
+    "subTopics": [
+      {
+        "title": "Seizures and their classification",
+        "quizzes": [
+          {
+            "question": "What is the most common manifestation of seizures in epilepsy?",
+            "goodAnswer": "Alterations of consciousness and abnormal motor activity",
+            "wrongAnswer_1": "Increased heart rate and sweating",
+            "wrongAnswer_2": "Sudden weight gain",
+            "wrongAnswer_3": "Decreased respiratory rate",
+            "wrongAnswer_4": "Consistent itching sensation"
+          },
+          {
+            "question": "What characterizes partial seizures?",
+            "goodAnswer": "Focal onset",
+            "wrongAnswer_1": "Bilateral onset",
+            "wrongAnswer_2": "Sudden loss of consciousness",
+            "wrongAnswer_3": "Absence of any motor activity",
+            "wrongAnswer_4": "Complete paralysis"
+          },
+          {
+            "question": "What type of seizure is indicated by 3Hz spike and wave abnormalities on an EEG?",
+            "goodAnswer": "Absence seizures",
+            "wrongAnswer_1": "Simple partial seizures",
+            "wrongAnswer_2": "Complex partial seizures",
+            "wrongAnswer_3": "Secondary generalized seizures",
+            "wrongAnswer_4": "Tonic seizures"
+          }
+        ]
+      },
+      {
+        "title": "Drugs for treatment of partial seizures, generalized tonic clonic seizures and primary generalized epilepsy",
+        "quizzes": [
+          {
+            "question": "What is a significant pharmacokinetic feature of Phenytoin?",
+            "goodAnswer": "Exhibits saturation kinetics",
+            "wrongAnswer_1": "Completely water soluble",
+            "wrongAnswer_2": "Long half-life of 100 hours",
+            "wrongAnswer_3": "Metabolized primarily renally",
+            "wrongAnswer_4": "Highly hydrophobic, absorbed only intravenously"
+          },
+          {
+            "question": "Why is Fosphenytoin preferred over Phenytoin for some treatments?",
+            "goodAnswer": "It is water soluble and can be administered intramuscularly",
+            "wrongAnswer_1": "It is more potent and requires lower doses",
+            "wrongAnswer_2": "It has a shorter half-life, making overdose less likely",
+            "wrongAnswer_3": "It is cheaper and more readily available",
+            "wrongAnswer_4": "It does not produce any side effects"
+          },
+          {
+            "question": "What is a common adverse effect associated with Carbamazepine?",
+            "goodAnswer": "Aplastic anemia",
+            "wrongAnswer_1": "Insomnia",
+            "wrongAnswer_2": "Excessive sweating",
+            "wrongAnswer_3": "Hair loss",
+            "wrongAnswer_4": "Hyperthyroidism"
+          }
+        ]
+      },
+      {
+        "title": "New anticonvulsants",
+        "quizzes": [
+          {
+            "question": "Which new anticonvulsant is known to inhibit GABA reuptake?",
+            "goodAnswer": "Tiagabine",
+            "wrongAnswer_1": "Felbamate",
+            "wrongAnswer_2": "Gabapentin",
+            "wrongAnswer_3": "Topiramate",
+            "wrongAnswer_4": "Levetiracetam"
+          },
+          {
+            "question": "What is a benefit of Lamotrigine over other new anticonvulsants?",
+            "goodAnswer": "It is useful in both partial and primary generalized seizures",
+            "wrongAnswer_1": "It has no side effects",
+            "wrongAnswer_2": "It is the first-choice drug for epilepsy",
+            "wrongAnswer_3": "It inhibits all types of seizures",
+            "wrongAnswer_4": "It is the cheapest medication available"
+          },
+          {
+            "question": "Which new anticonvulsant was associated with a high rate of aplastic anemia?",
+            "goodAnswer": "Felbamate",
+            "wrongAnswer_1": "Gabapentin",
+            "wrongAnswer_2": "Vigabatrin",
+            "wrongAnswer_3": "Zonisamide",
+            "wrongAnswer_4": "Topiramate"
+          }
+        ]
+      },
+      {
+        "title": "Principles for the management of epilepsy and management during pregnancy",
+        "quizzes": [
+          {
+            "question": "What is the general recommendation for anticonvulsant therapy during pregnancy?",
+            "goodAnswer": "Use monotherapy if possible and the lowest effective dose",
+            "wrongAnswer_1": "Avoid all anticonvulsants",
+            "wrongAnswer_2": "Switch medications frequently to balance effects",
+            "wrongAnswer_3": "Use only new anticonvulsants",
+            "wrongAnswer_4": "Use a combination therapy of at least three drugs"
+          },
+          {
+            "question": "Why should valproic acid be avoided during pregnancy?",
+            "goodAnswer": "Increased incidence of neural tube defects",
+            "wrongAnswer_1": "Causes excessive drowsiness",
+            "wrongAnswer_2": "Interferes with fetal nervous system development",
+            "wrongAnswer_3": "Leads to weight gain in mothers",
+            "wrongAnswer_4": "Increases risk of premature delivery"
+          },
+          {
+            "question": "Why is it important to achieve good control of epilepsy with as few drugs as possible?",
+            "goodAnswer": "Minimizes teratogenic risk to the fetus",
+            "wrongAnswer_1": "Prevents addiction to anticonvulsants",
+            "wrongAnswer_2": "Ensures rapid recovery post-pregnancy",
+            "wrongAnswer_3": "Maintains higher patient satisfaction",
+            "wrongAnswer_4": "Decreases chances of epilepsy inheritance"
+          }
+        ]
+      },
+      {
+        "title": "Treatment of status epilepticus in emergency medicine",
+        "quizzes": [
+          {
+            "question": "What is the pharmacological action of Lorazepam in treating status epilepticus?",
+            "goodAnswer": "Rapid action after IV injection to control seizures",
+            "wrongAnswer_1": "Long-lasting sedation effects via oral dose",
+            "wrongAnswer_2": "Gradual vasodilation to improve circulation",
+            "wrongAnswer_3": "Metabolism inhibition of secondary seizures",
+            "wrongAnswer_4": "Immediate cessation of neuronal activity intravenously"
+          },
+          {
+            "question": "What is a major risk of prolonged status epilepticus if untreated?",
+            "goodAnswer": "Irreversible brain injury",
+            "wrongAnswer_1": "Loss of limb function",
+            "wrongAnswer_2": "Heart attack",
+            "wrongAnswer_3": "Renal failure",
+            "wrongAnswer_4": "Hearing loss"
+          },
+          {
+            "question": "What should be the immediate focus in managing a patient with status epilepticus?",
+            "goodAnswer": "Ensure airway, breathing, and circulation (ABCs)",
+            "wrongAnswer_1": "Administer multiple anticonvulsant drugs immediately",
+            "wrongAnswer_2": "Measure serum drug levels",
+            "wrongAnswer_3": "Perform an immediate surgical procedure",
+            "wrongAnswer_4": "Initiate long-term sedation treatment"
+          }
+        ]
+      }
+    ]
+  }
+}

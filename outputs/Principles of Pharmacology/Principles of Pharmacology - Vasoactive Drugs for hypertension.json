@@ -1,0 +1,125 @@
+{
+ "mainTopic": {
+    "title": "Vasoactive Drugs for hypertension",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "team_name": "CyberMed",
+    "subTopics": [
+      {
+        "title": "Overview of Hypertension",
+        "quizzes": [
+          {
+            "question": "What defines Stage I hypertension based on systolic and diastolic pressures?",
+            "goodAnswer": "Systolic 140-159 mmHg or diastolic 90-99 mmHg",
+            "wrongAnswer_1": "Systolic 120-139 mmHg or diastolic 80-89 mmHg",
+            "wrongAnswer_2": "Systolic >160 mmHg or diastolic >100 mmHg",
+            "wrongAnswer_3": "Systolic <120 mmHg and diastolic <80 mmHg",
+            "wrongAnswer_4": "Systolic 130-139 mmHg or diastolic 85-95 mmHg"
+          },
+          {
+            "question": "What proportion of the adult American population is affected by hypertension?",
+            "goodAnswer": "Approximately 25%",
+            "wrongAnswer_1": "Approximately 50%",
+            "wrongAnswer_2": "Approximately 10%",
+            "wrongAnswer_3": "Approximately 30%",
+            "wrongAnswer_4": "Approximately 40%"
+          },
+          {
+            "question": "What is a common consequence of long-standing hypertension?",
+            "goodAnswer": "Accelerated atherosclerosis",
+            "wrongAnswer_1": "Decreased heart rate",
+            "wrongAnswer_2": "Improved kidney function",
+            "wrongAnswer_3": "Increased bone density",
+            "wrongAnswer_4": "Lower risk of coronary artery disease"
+          }
+        ]
+      },
+      {
+        "title": "Pharmacotherapy of hypertension based on the four possible mechanisms of hypertension",
+        "quizzes": [
+          {
+            "question": "Which drug class is used to decrease LV systolic performance as part of hypertension management?",
+            "goodAnswer": "Beta-blockers and calcium channel blockers",
+            "wrongAnswer_1": "ACE inhibitors and ARBs",
+            "wrongAnswer_2": "Diuretics and alpha-blockers",
+            "wrongAnswer_3": "Vasodilators and potassium channel openers",
+            "wrongAnswer_4": "Central sympatholytics and diuretics"
+          },
+          {
+            "question": "How does a high intravascular volume cause hypertension?",
+            "goodAnswer": "By causing an excess of venous return, leading to elevated LVEDV",
+            "wrongAnswer_1": "By reducing the blood volume and LVEDV",
+            "wrongAnswer_2": "By decreasing arterial resistance and Ea",
+            "wrongAnswer_3": "By increasing diastolic function through reduced resistance",
+            "wrongAnswer_4": "By decreasing the stroke volume"
+          },
+          {
+            "question": "Which mechanism of hypertension involves an elevated effective arterial elastance (Ea)?",
+            "goodAnswer": "High resistance or low compliance of the arterial tree",
+            "wrongAnswer_1": "Excessive contraction during systole",
+            "wrongAnswer_2": "Increased renal dysfunction",
+            "wrongAnswer_3": "Elevated sympathetic tone",
+            "wrongAnswer_4": "Reduced venous tone and return"
+          }
+        ]
+      },
+      {
+        "title": "Major anti hypertensive drug classes and treatment protocol of hypertension",
+        "quizzes": [
+          {
+            "question": "What is a common side effect of thiazide diuretics?",
+            "goodAnswer": "Hypercalcemia, hypokalemia, and hyponatremia",
+            "wrongAnswer_1": "Hypocalcemia, hyperkalemia, and hyponatremia",
+            "wrongAnswer_2": "Hyperglycemia, hyperlipidemia, and hypotension",
+            "wrongAnswer_3": "Hypernatremia, insulin sensitivity, and dizziness",
+            "wrongAnswer_4": "Hypotension, increased urination, and anemia"
+          },
+          {
+            "question": "Which class of drugs is synergistic with beta-blockers in hypertension treatment?",
+            "goodAnswer": "Calcium channel blockers",
+            "wrongAnswer_1": "ACE inhibitors",
+            "wrongAnswer_2": "Loop diuretics",
+            "wrongAnswer_3": "ARBs",
+            "wrongAnswer_4": "Alpha-blockers"
+          },
+          {
+            "question": "How do ACE inhibitors help in the management of hypertension?",
+            "goodAnswer": "By reducing angiotensin II and aldosterone levels",
+            "wrongAnswer_1": "By blocking alpha and beta receptors",
+            "wrongAnswer_2": "By increasing venous return",
+            "wrongAnswer_3": "By causing sodium retention",
+            "wrongAnswer_4": "By decreasing nitric oxide levels"
+          }
+        ]
+      },
+      {
+        "title": "Antihypertensive drugs and their effects outside of hypertension",
+        "quizzes": [
+          {
+            "question": "Which antihypertensive drug class offers cardiovascular benefits beyond blood pressure control?",
+            "goodAnswer": "Beta-blockers",
+            "wrongAnswer_1": "Central sympatholytics",
+            "wrongAnswer_2": "Direct vasodilators",
+            "wrongAnswer_3": "Potassium channel openers",
+            "wrongAnswer_4": "Diuretics"
+          },
+          {
+            "question": "What is a consideration when using ACE inhibitors in patients with renal artery stenosis?",
+            "goodAnswer": "They may cause renal dysfunction or failure",
+            "wrongAnswer_1": "They enhance the effects of beta-blockers",
+            "wrongAnswer_2": "They reduce insulin sensitivity",
+            "wrongAnswer_3": "They are the first-line treatment",
+            "wrongAnswer_4": "They improve lipid profile"
+          },
+          {
+            "question": "Which condition can be exacerbated by beta-blockers?",
+            "goodAnswer": "Asthma",
+            "wrongAnswer_1": "Anemia",
+            "wrongAnswer_2": "Hyperthyroidism",
+            "wrongAnswer_3": "Type 1 diabetes",
+            "wrongAnswer_4": "Osteoporosis"
+          }
+        ]
+      }
+    ]
+  }
+}

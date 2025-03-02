@@ -1,0 +1,151 @@
+{
+ "mainTopic": {
+    "title": "Chemotherapy",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "team_name": "CyberMed",
+    "subTopics": [
+      {
+        "title": "General principles of cancer chemotherapy and drug resistance",
+        "quizzes": [
+          {
+            "question": "What is the main difference in cell elimination between first-order kinetics and alternative kinetics during chemotherapy?",
+            "goodAnswer": "First-order kinetics kill a constant percentage of cells.",
+            "wrongAnswer_1": "First-order kinetics kill a constant number of cells.",
+            "wrongAnswer_2": "Alternative kinetics kill a constant percentage of cells.",
+            "wrongAnswer_3": "First-order kinetics depend on the tumor type for effective killing.",
+            "wrongAnswer_4": "Alternative kinetics show no pattern in cell killing."
+          },
+          {
+            "question": "Why is combination chemotherapy often more effective than single-drug therapy?",
+            "goodAnswer": "Combines drugs with different mechanisms and dose-limiting toxicities.",
+            "wrongAnswer_1": "Ensures more rapid patient recovery.",
+            "wrongAnswer_2": "Reduces overall side effects of the treatment.",
+            "wrongAnswer_3": "Increases the therapeutic index of each drug.",
+            "wrongAnswer_4": "Allows using drugs in non-therapeutic environments."
+          },
+          {
+            "question": "What hypothesis explains acquired drug resistance related to population size and mutation frequency?",
+            "goodAnswer": "Goldie-Coldman Hypothesis",
+            "wrongAnswer_1": "Log-kill Hypothesis",
+            "wrongAnswer_2": "Gompertzian Hypothesis",
+            "wrongAnswer_3": "Linear No-Threshold Hypothesis",
+            "wrongAnswer_4": "Yule-Simon Hypothesis"
+          }
+        ]
+      },
+      {
+        "title": "Cell Cycle Active agents: S / G2 / M phase specific and phase nonspecific chemotherapeutic agents",
+        "quizzes": [
+          {
+            "question": "Which class of drugs incorporates nucleotide analogs in DNA during the S phase?",
+            "goodAnswer": "Antimetabolites",
+            "wrongAnswer_1": "Alkylating Agents",
+            "wrongAnswer_2": "Anthracyclines",
+            "wrongAnswer_3": "Corticosteroids",
+            "wrongAnswer_4": "Topoisomerase Inhibitors"
+          },
+          {
+            "question": "How do plant alkaloids like Vincristine and Vinblastine affect the cell cycle?",
+            "goodAnswer": "Inhibit tubulin polymerization",
+            "wrongAnswer_1": "Induce DNA alkylation",
+            "wrongAnswer_2": "Intercalate between DNA strands",
+            "wrongAnswer_3": "Induce topoisomerase I inhibition",
+            "wrongAnswer_4": "Stabilize microtubules"
+          },
+          {
+            "question": "What is the main mechanism of action for bleomycin?",
+            "goodAnswer": "Induces DNA strand breaks",
+            "wrongAnswer_1": "Inhibits RNA polymerase",
+            "wrongAnswer_2": "Stimulates base pair excision",
+            "wrongAnswer_3": "Interferes with mRNA translation",
+            "wrongAnswer_4": "Blocks nucleotide transport"
+          }
+        ]
+      },
+      {
+        "title": "Non Cell Cycle Active chemotherapeutic agents",
+        "quizzes": [
+          {
+            "question": "What is the main mechanism of corticosteroids in treating lymphoid malignancies?",
+            "goodAnswer": "Inducing apoptosis of lymphoblasts",
+            "wrongAnswer_1": "Inhibiting DNA unwinding",
+            "wrongAnswer_2": "Blocking cell cycle transitions",
+            "wrongAnswer_3": "Interfering with cell membrane integrity",
+            "wrongAnswer_4": "Promoting oxidative stress"
+          },
+          {
+            "question": "How does L-asparaginase function differently in cancerous lymphoblasts compared to normal cells?",
+            "goodAnswer": "Lymphoblasts die without asparagine due to lack of asparagine synthetase.",
+            "wrongAnswer_1": "L-asparaginase reduces lysine levels in lymphoblasts.",
+            "wrongAnswer_2": "Normal cells overproduce asparagine synthase in response.",
+            "wrongAnswer_3": "Lymphoblasts convert L-asparaginase to aspartate independently.",
+            "wrongAnswer_4": "Normal cells DNA is resistant to L-asparaginase."
+          }
+        ]
+      },
+      {
+        "title": "Toxicities of chemotherapeutic agents",
+        "quizzes": [
+          {
+            "question": "Which chemotherapeutic agent toxicity is associated with acute renal failure due to high doses?",
+            "goodAnswer": "Methotrexate",
+            "wrongAnswer_1": "Vincristine",
+            "wrongAnswer_2": "Doxorubicin",
+            "wrongAnswer_3": "Busulfan",
+            "wrongAnswer_4": "Bleomycin"
+          },
+          {
+            "question": "What unique toxicity is associated with the use of Cyclophosphamide?",
+            "goodAnswer": "Hemorrhagic cystitis",
+            "wrongAnswer_1": "Subacute pneumonitis",
+            "wrongAnswer_2": "Cerebral hemorrhage",
+            "wrongAnswer_3": "Hepatic failure",
+            "wrongAnswer_4": "Urinary stone formation"
+          }
+        ]
+      },
+      {
+        "title": "Combination Chemotherapy",
+        "quizzes": [
+          {
+            "question": "What is a key requirement for combination chemotherapy in terms of drug mechanisms?",
+            "goodAnswer": "Drugs must have different mechanisms of action.",
+            "wrongAnswer_1": "Drugs must share a common metabolic pathway.",
+            "wrongAnswer_2": "All drugs must target the same cellular structure.",
+            "wrongAnswer_3": "Drugs should be derived from similar chemical families.",
+            "wrongAnswer_4": "Drugs must have identical dose-limiting toxicities."
+          },
+          {
+            "question": "What is the critical benefit of using combination chemotherapy in acute lymphocytic leukemia treatment?",
+            "goodAnswer": "Decreases the chance of drug-resistant clone emergence.",
+            "wrongAnswer_1": "Ensures shorter treatment duration.",
+            "wrongAnswer_2": "Allows the use of lower drug doses.",
+            "wrongAnswer_3": "Simplifies patient management.",
+            "wrongAnswer_4": "Eliminates the need for follow-up treatments."
+          }
+        ]
+      },
+      {
+        "title": "Tumor Host and cellular resistance",
+        "quizzes": [
+          {
+            "question": "What mechanism leads to the emergence of acquired drug resistance in tumor cells?",
+            "goodAnswer": "Genotypic and phenotypic changes during therapy.",
+            "wrongAnswer_1": "Proteolytic degradation of therapeutic agents.",
+            "wrongAnswer_2": "Enhanced tumor cell apoptosis from drugs.",
+            "wrongAnswer_3": "Increased oxidative stress on normal cells.",
+            "wrongAnswer_4": "Rapid depletion of tumor vascular supply."
+          },
+          {
+            "question": "How does the P-glycoprotein contribute to multidrug resistance?",
+            "goodAnswer": "It increases drug efflux out of the cell.",
+            "wrongAnswer_1": "It enhances drug binding to DNA.",
+            "wrongAnswer_2": "It blocks drug entry into the nucleus.",
+            "wrongAnswer_3": "It stimulates drug metabolism within the cytoplasm.",
+            "wrongAnswer_4": "It inhibits drug degradation pathways."
+          }
+        ]
+      }
+    ]
+  }
+}

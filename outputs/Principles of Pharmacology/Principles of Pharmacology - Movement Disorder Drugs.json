@@ -1,0 +1,133 @@
+{
+ "mainTopic": {
+    "title": "Movement Disorder Drugs",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "team_name": "CyberMed",
+    "subTopics": [
+      {
+        "title": "Overview of movement disorders and Parkinson's disease",
+        "quizzes": [
+          {
+            "question": "What are the cardinal signs of Parkinson's disease?",
+            "goodAnswer": "Rest tremor, bradykinesia, rigidity, impairment of postural reflexes",
+            "wrongAnswer_1": "Chorea, dystonia, high fever, headache",
+            "wrongAnswer_2": "Lethargy, nausea, sweating, tachycardia",
+            "wrongAnswer_3": "Photophobia, weight gain, skin rash, insomnia",
+            "wrongAnswer_4": "Muscle spasms, shortness of breath, anxiety, depression"
+          },
+          {
+            "question": "What neurologic disorder affects over 3% of individuals over the age of 65?",
+            "goodAnswer": "Parkinson's disease",
+            "wrongAnswer_1": "Alzheimer's disease",
+            "wrongAnswer_2": "Multiple sclerosis",
+            "wrongAnswer_3": "Amyotrophic lateral sclerosis",
+            "wrongAnswer_4": "Huntington's disease"
+          },
+          {
+            "question": "What is a common etiological factor implicated in Parkinson's disease?",
+            "goodAnswer": "Environmental exposures, including pesticides",
+            "wrongAnswer_1": "Excess caffeine intake",
+            "wrongAnswer_2": "Chronic dehydration",
+            "wrongAnswer_3": "Vitamin D deficiency",
+            "wrongAnswer_4": "Excessive use of antibiotics"
+          }
+        ]
+      },
+      {
+        "title": "Biochemistry of dopamine",
+        "quizzes": [
+          {
+            "question": "What enzyme is responsible for the synthesis of dopamine from tyrosine?",
+            "goodAnswer": "Tyrosine hydroxylase",
+            "wrongAnswer_1": "Dopa decarboxylase",
+            "wrongAnswer_2": "Monoamine oxidase",
+            "wrongAnswer_3": "Catechol-O-methyltransferase",
+            "wrongAnswer_4": "Dopamine beta-hydroxylase"
+          },
+          {
+            "question": "What two main enzymes are involved in the catabolism of dopamine?",
+            "goodAnswer": "COMT and MAO",
+            "wrongAnswer_1": "Cytochrome P450 and aldolase",
+            "wrongAnswer_2": "Lipoxygenase and cyclooxygenase",
+            "wrongAnswer_3": "Helicase and topoisomerase",
+            "wrongAnswer_4": "Transferase and epimerase"
+          },
+          {
+            "question": "Which dopamine receptor types are primarily extrastriatal?",
+            "goodAnswer": "d5 (D type) and d3, d4 (D type)",
+            "wrongAnswer_1": "d1 and d2",
+            "wrongAnswer_2": "d2 and d3",
+            "wrongAnswer_3": "d4 and d5",
+            "wrongAnswer_4": "d1 and d3"
+          }
+        ]
+      },
+      {
+        "title": "Treatment of Parkinson's disease",
+        "quizzes": [
+          {
+            "question": "What is the precursor of dopamine that is used in treatment of Parkinson's disease?",
+            "goodAnswer": "Levodopa",
+            "wrongAnswer_1": "Dopamine sulfate",
+            "wrongAnswer_2": "Tyrosine",
+            "wrongAnswer_3": "Serotonin",
+            "wrongAnswer_4": "Noradrenaline"
+          },
+          {
+            "question": "Why is levodopa typically administered with carbidopa?",
+            "goodAnswer": "To inhibit peripheral decarboxylase and prevent breakdown of levodopa before crossing the blood-brain barrier",
+            "wrongAnswer_1": "To enhance its potency and stability in the liver",
+            "wrongAnswer_2": "To act as a stabilizer for plasma membranes",
+            "wrongAnswer_3": "To facilitate quicker absorption in the GI tract",
+            "wrongAnswer_4": "To inhibit liver enzymes mediating drug metabolism"
+          },
+          {
+            "question": "Which COMT inhibitor can cross the blood-brain barrier and is used to manage Parkinson's?",
+            "goodAnswer": "Tolcapone",
+            "wrongAnswer_1": "Entacapone",
+            "wrongAnswer_2": "Selegiline",
+            "wrongAnswer_3": "Carbidopa",
+            "wrongAnswer_4": "Ropinirole"
+          },
+          {
+            "question": "What class of drugs are Pramipexole and Ropinerole?",
+            "goodAnswer": "Dopamine agonists",
+            "wrongAnswer_1": "Dopamine antagonists",
+            "wrongAnswer_2": "MAO-B inhibitors",
+            "wrongAnswer_3": "COMT inhibitors",
+            "wrongAnswer_4": "Serotonin reuptake inhibitors"
+          }
+        ]
+      },
+      {
+        "title": "Dopamine receptor antagonists",
+        "quizzes": [
+          {
+            "question": "What are dopamine receptor antagonists primarily used to treat?",
+            "goodAnswer": "Psychotic illnesses",
+            "wrongAnswer_1": "Cardiac arrhythmias",
+            "wrongAnswer_2": "Bronchial asthma",
+            "wrongAnswer_3": "Insomnia",
+            "wrongAnswer_4": "Inflammatory diseases"
+          },
+          {
+            "question": "Which side effect is associated with long-term use of dopamine receptor antagonists?",
+            "goodAnswer": "Tardive dyskinesia",
+            "wrongAnswer_1": "Hypertension",
+            "wrongAnswer_2": "Hypothermia",
+            "wrongAnswer_3": "Diarrhea",
+            "wrongAnswer_4": "Anemia"
+          },
+          {
+            "question": "Which atypical antipsychotic has specific action at the d4 receptor and can cause neutropenia?",
+            "goodAnswer": "Clozapine",
+            "wrongAnswer_1": "Risperidone",
+            "wrongAnswer_2": "Olanzapine",
+            "wrongAnswer_3": "Quetiapine",
+            "wrongAnswer_4": "Haloperidol"
+          }
+        ]
+      }
+    ]
+  }
+}

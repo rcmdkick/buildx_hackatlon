@@ -1,0 +1,96 @@
+{
+  "mainTopic": {
+    "title": "Pharmacokinetics",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "team_name": "CyberMed",
+    "subTopics": [
+      {
+        "title": "Absorption and Distribution Of Drugs",
+        "quizzes": [
+          {
+            "question": "What is the main difference between passive diffusion and active transport in drug absorption?",
+            "goodAnswer": "Passive diffusion does not require energy, while active transport does.",
+            "wrongAnswer_1": "Active transport does not require energy, while passive diffusion does.",
+            "wrongAnswer_2": "Both passive diffusion and active transport require energy.",
+            "wrongAnswer_3": "Passive diffusion requires a carrier protein, while active transport does not.",
+            "wrongAnswer_4": "Both passive diffusion and active transport utilize a concentration gradient."
+          },
+          {
+            "question": "Which absorption route is influenced by the 'first-pass effect'?",
+            "goodAnswer": "Oral ingestion",
+            "wrongAnswer_1": "Intravenous injection",
+            "wrongAnswer_2": "Inhalation",
+            "wrongAnswer_3": "Subcutaneous injection",
+            "wrongAnswer_4": "Topical application"
+          },
+          {
+            "question": "Which factor does NOT affect the absorption rate of a drug?",
+            "goodAnswer": "The color of the drug",
+            "wrongAnswer_1": "Blood flow at the absorption site",
+            "wrongAnswer_2": "Surface area of absorption site",
+            "wrongAnswer_3": "Lipid solubility of the drug",
+            "wrongAnswer_4": "Concentration gradient at the absorption site"
+          }
+        ]
+      },
+      {
+        "title": "Distribution of Drugs",
+        "quizzes": [
+          {
+            "question": "Which tissue is likely to have the fastest distribution of drugs due to its high blood flow?",
+            "goodAnswer": "Liver",
+            "wrongAnswer_1": "Fat tissue",
+            "wrongAnswer_2": "Skin",
+            "wrongAnswer_3": "Cartilage",
+            "wrongAnswer_4": "Bone tissue"
+          },
+          {
+            "question": "What is the main characteristic of the blood-brain barrier in drug distribution?",
+            "goodAnswer": "Tight junctions between capillary endothelial cells",
+            "wrongAnswer_1": "High permeability to all drug types",
+            "wrongAnswer_2": "Lack of transporter proteins",
+            "wrongAnswer_3": "Facilitated by passive diffusion",
+            "wrongAnswer_4": "Enhanced drug binding to extracellular matrix"
+          },
+          {
+            "question": "Which factor does NOT influence a drug's distribution?",
+            "goodAnswer": "The drug's color",
+            "wrongAnswer_1": "Capillary permeability",
+            "wrongAnswer_2": "Tissue/blood partitioning",
+            "wrongAnswer_3": "Drug's lipophilicity",
+            "wrongAnswer_4": "Plasma protein binding"
+          }
+        ]
+      },
+      {
+        "title": "Time Course of Plasma Concentration and Drug Effect",
+        "quizzes": [
+          {
+            "question": "What does the steady-state concentration (Css) of a drug represent in pharmacokinetics?",
+            "goodAnswer": "The point where drug input rate equals drug elimination rate.",
+            "wrongAnswer_1": "The point where drug administration increases proportionally to its clearance.",
+            "wrongAnswer_2": "The peak concentration after a single dose.",
+            "wrongAnswer_3": "The minimum concentration achieved before the next dose.",
+            "wrongAnswer_4": "The point where the drug is completely eliminated from the body."
+          },
+          {
+            "question": "Which pharmacokinetic parameter primarily determines the time to reach steady-state concentration?",
+            "goodAnswer": "Elimination half-life",
+            "wrongAnswer_1": "Volume of distribution",
+            "wrongAnswer_2": "Bioavailability",
+            "wrongAnswer_3": "First-order absorption rate",
+            "wrongAnswer_4": "Maximum plasma concentration (Cmax)"
+          },
+          {
+            "question": "Which factor does NOT directly influence the time course of drug plasma concentration?",
+            "goodAnswer": "Drug's natural color",
+            "wrongAnswer_1": "Rate of drug absorption",
+            "wrongAnswer_2": "Rate of drug elimination",
+            "wrongAnswer_3": "Dose administered",
+            "wrongAnswer_4": "Volume of distribution"
+          }
+        ]
+      }
+    ]
+  }
+}

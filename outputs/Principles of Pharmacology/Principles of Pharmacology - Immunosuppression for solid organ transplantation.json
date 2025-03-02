@@ -1,0 +1,156 @@
+{
+  "mainTopic": {
+    "title": "Immunosuppression for solid organ transplantation",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "team_name": "CyberMed",
+    "subTopics": [
+      {
+        "title": "Overview and history of solid organ and bone marrow transplantation",
+        "quizzes": [
+          {
+            "question": "What major milestone marked the beginning of successful organ transplantation in 1954?",
+            "goodAnswer": "First successful human kidney transplant",
+            "wrongAnswer_1": "Introduction of bone marrow transplants for immunodeficiency",
+            "wrongAnswer_2": "Introduction of effective immunosuppressive drugs",
+            "wrongAnswer_3": "Development of selective monoclonal antibodies",
+            "wrongAnswer_4": "First successful heart transplant"
+          },
+          {
+            "question": "Which drug was introduced in the 1970s that significantly improved transplantation outcomes?",
+            "goodAnswer": "Cyclosporine",
+            "wrongAnswer_1": "Azathioprine",
+            "wrongAnswer_2": "Tacrolimus",
+            "wrongAnswer_3": "Mycophenolate mofetil",
+            "wrongAnswer_4": "TNF antagonists"
+          }
+        ]
+      },
+      {
+        "title": "Benefits and risks of immunosuppression",
+        "quizzes": [
+          {
+            "question": "What is a major benefit of immunosuppression in transplantation?",
+            "goodAnswer": "Decreases risks of acute and chronic graft rejection",
+            "wrongAnswer_1": "Increases risk of opportunistic infection",
+            "wrongAnswer_2": "Cures autoimmune diseases",
+            "wrongAnswer_3": "Eliminates need for further medication",
+            "wrongAnswer_4": "Prevents all types of malignancies"
+          },
+          {
+            "question": "What is one major risk associated with immunosuppression therapy?",
+            "goodAnswer": "Malignancies such as lymphomas and skin cancers",
+            "wrongAnswer_1": "Improved graft survival",
+            "wrongAnswer_2": "Increased muscle mass",
+            "wrongAnswer_3": "Reduced infection risk",
+            "wrongAnswer_4": "Enhanced cognitive function"
+          }
+        ]
+      },
+      {
+        "title": "Types of organ graft rejection",
+        "quizzes": [
+          {
+            "question": "What characterizes hyperacute rejection of an organ graft?",
+            "goodAnswer": "Occurs within minutes due to preformed anti-donor antibodies",
+            "wrongAnswer_1": "Occurs weeks after transplant through delayed-type hypersensitivity",
+            "wrongAnswer_2": "Occurs months to years due to vascular damage",
+            "wrongAnswer_3": "Features mononuclear infiltrate and edema",
+            "wrongAnswer_4": "Is reversible with increased immunosuppressive therapy"
+          },
+          {
+            "question": "Which type of rejection is characterized by cell-mediated response by cytotoxic T lymphocytes?",
+            "goodAnswer": "Acute rejection",
+            "wrongAnswer_1": "Hyperacute rejection",
+            "wrongAnswer_2": "Chronic rejection",
+            "wrongAnswer_3": "Graft vs. Host Disease",
+            "wrongAnswer_4": "Delayed hypersensitivity reaction"
+          }
+        ]
+      },
+      {
+        "title": "Graft rejection and GVHD after bone marrow transplantation",
+        "quizzes": [
+          {
+            "question": "What is acute GVHD and when does it typically occur?",
+            "goodAnswer": "Affects skin, GI tract, liver and occurs before day 100 post-transplant",
+            "wrongAnswer_1": "Affects only the liver and occurs after day 100 post-transplant",
+            "wrongAnswer_2": "Occurs within minutes due to preformed antibodies",
+            "wrongAnswer_3": "Characterized by fibrosis after day 300 post-transplant",
+            "wrongAnswer_4": "Occurs only in myeloablative therapy"
+          },
+          {
+            "question": "How common is graft rejection after conventional myeloablative bone marrow transplantation?",
+            "goodAnswer": "Uncommonly occurs in <1% of cases",
+            "wrongAnswer_1": "Occurs in over 50% of transplants",
+            "wrongAnswer_2": "Occurs exclusively in HLA-mismatched BMT",
+            "wrongAnswer_3": "Only occurs post day 100",
+            "wrongAnswer_4": "Occurs more frequently in HLA-matched transplants"
+          }
+        ]
+      },
+      {
+        "title": "Molecular basis of immune response and immunosuppression",
+        "quizzes": [
+          {
+            "question": "What role do MHC molecules play in graft rejection?",
+            "goodAnswer": "MHC molecules present foreign antigens that lead to immune response",
+            "wrongAnswer_1": "MHC molecules suppress T-cell activation",
+            "wrongAnswer_2": "MHC molecules are secreted antibodies",
+            "wrongAnswer_3": "MHC molecules transport immune cells to graft sites",
+            "wrongAnswer_4": "MHC molecules prevent GVHD in transplants"
+          },
+          {
+            "question": "What is the function of CD8 T cells in the immune response?",
+            "goodAnswer": "Destroy cells presenting antigens on MHC I molecules",
+            "wrongAnswer_1": "Produce antibodies circulating in blood",
+            "wrongAnswer_2": "Present antigens to CD4 T cells",
+            "wrongAnswer_3": "Suppress macrophage activity",
+            "wrongAnswer_4": "Stimulate B cell proliferation"
+          }
+        ]
+      },
+      {
+        "title": "Types of immunosuppressive agents and sites of action",
+        "quizzes": [
+          {
+            "question": "Which immunosuppressive agent inhibits the NFAT pathway?",
+            "goodAnswer": "Steroids",
+            "wrongAnswer_1": "Cyclosporine",
+            "wrongAnswer_2": "Tacrolimus",
+            "wrongAnswer_3": "Sirolimus",
+            "wrongAnswer_4": "Azathioprine"
+          },
+          {
+            "question": "What is the mechanism of action for Tacrolimus?",
+            "goodAnswer": "Inhibits calcineurin by binding to FKBP",
+            "wrongAnswer_1": "Inhibits inosine monophosphate dehydrogenase",
+            "wrongAnswer_2": "Blocks interaction between TCR and antigen",
+            "wrongAnswer_3": "Binds to interleukin-1 receptor",
+            "wrongAnswer_4": "Induces apoptosis of lymphocytes"
+          }
+        ]
+      },
+      {
+        "title": "Relationship between immunosuppressive drugs and cancer chemotherapy",
+        "quizzes": [
+          {
+            "question": "How do therapeutic goals differ between immunotherapy and cancer chemotherapy?",
+            "goodAnswer": "Immunotherapy targets burst proliferation of immune cells, unlike cancer cells",
+            "wrongAnswer_1": "Both therapies target unregulated cell proliferation similarly",
+            "wrongAnswer_2": "Cancer chemotherapy often ignores antigenic stimulation",
+            "wrongAnswer_3": "Cancer chemotherapy predominantly uses low-dose regimens",
+            "wrongAnswer_4": "Immunotherapy generally involves high-dose pulse administration"
+          },
+          {
+            "question": "What differentiates the selectivity in immunosuppressants compared to cancer drugs?",
+            "goodAnswer": "Selectivity in immunosuppressants is due to antigen-driven proliferation",
+            "wrongAnswer_1": "Cancer drugs only work on static cell populations",
+            "wrongAnswer_2": "Immunosuppressants act mainly on unrelated antigen cells",
+            "wrongAnswer_3": "Cancer selectivity is achieved by dosing intervals",
+            "wrongAnswer_4": "Cancer drugs and immunosuppressants share identical targets"
+          }
+        ]
+      }
+    ]
+  }
+}

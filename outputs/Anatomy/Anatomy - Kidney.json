@@ -1,0 +1,96 @@
+{
+  "mainTopic": {
+    "title": "Kidney",
+    "content_info": "The content includes both anatomical and physiological information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+    "team_name": "CyberMed",
+    "subTopics": [
+      {
+        "title": "Gross anatomy of the kidney",
+        "quizzes": [
+          {
+            "question": "What is the location of the kidneys in relation to the vertebrae?",
+            "goodAnswer": "The left kidney is located at about the T12 to L3 vertebrae, whereas the right kidney is lower due to displacement by the liver.",
+            "wrongAnswer_1": "The kidneys are located at the C5 to C7 vertebrae.",
+            "wrongAnswer_2": "Both kidneys are located at the L1 to L4 vertebrae equally.",
+            "wrongAnswer_3": "The left kidney is located at T10 to L1 while the right kidney is at T12 to L2.",
+            "wrongAnswer_4": "The kidneys float freely and are not associated with specific vertebrae."
+          },
+          {
+            "question": "What structures protect the upper portions of the kidneys?",
+            "goodAnswer": "The upper portions of the kidneys are protected by the eleventh and twelfth ribs.",
+            "wrongAnswer_1": "The upper portions of the kidneys are protected by the pelvis.",
+            "wrongAnswer_2": "The upper portions are protected by the lumbar muscles alone.",
+            "wrongAnswer_3": "The clavicle provides protection to the upper portions of the kidneys.",
+            "wrongAnswer_4": "The upper portions are protected by only abdominal muscle layers."
+          },
+          {
+            "question": "What anatomical structure covers the kidneys directly?",
+            "goodAnswer": "The kidney is directly covered by a fibrous capsule composed of dense, irregular connective tissue.",
+            "wrongAnswer_1": "The kidneys are covered by a serous membrane.",
+            "wrongAnswer_2": "The kidneys are covered directly by glandular tissue.",
+            "wrongAnswer_3": "Kidneys are covered by a smooth muscle layer.",
+            "wrongAnswer_4": "The kidneys are encased in a layer of endothelial cells."
+          }
+        ]
+      },
+      {
+        "title": "Nephrons",
+        "quizzes": [
+          {
+            "question": "What are the major components of a nephron?",
+            "goodAnswer": "The major components of a nephron include the glomerulus, Bowman’s capsule, proximal convoluted tubule, loop of Henle, distal convoluted tubule, and collecting duct.",
+            "wrongAnswer_1": "A nephron consists solely of the glomerulus and collecting duct.",
+            "wrongAnswer_2": "Nephrons include the glomerulus, the heart, and the bladder.",
+            "wrongAnswer_3": "The nephron is made up of only proximal and distal tubules.",
+            "wrongAnswer_4": "Nephrons consist of renin, urea, and arterial pathways."
+          },
+          {
+            "question": "What role does the loop of Henle play in nephron function?",
+            "goodAnswer": "The loop of Henle is responsible for conserving water and creating a concentration gradient in the medulla.",
+            "wrongAnswer_1": "The loop of Henle filters all components of blood too large for glomerular filtration.",
+            "wrongAnswer_2": "The loop of Henle is for hormone production only.",
+            "wrongAnswer_3": "The loop of Henle absorbs all nutrients directly from blood vessels.",
+            "wrongAnswer_4": "The loop of Henle does not perform any specific function."
+          },
+          {
+            "question": "What structure directly collects filtrate from the glomerulus?",
+            "goodAnswer": "Bowman’s capsule directly collects filtrate from the glomerulus.",
+            "wrongAnswer_1": "The loop of Henle collects filtrate directly from the glomerulus.",
+            "wrongAnswer_2": "The collecting duct initially receives the glomerular filtrate.",
+            "wrongAnswer_3": "The proximal convoluted tubule collects the initial filtrate from the glomerulus.",
+            "wrongAnswer_4": "The renal artery directly receives filtrate from the glomerulus."
+          }
+        ]
+      },
+      {
+        "title": "Vasculature of the kidney",
+        "quizzes": [
+          {
+            "question": "What is the sequence of blood vessels involved in renal blood flow?",
+            "goodAnswer": "Blood flow in the kidney follows the sequence: renal artery, segmental arteries, interlobar arteries, arcuate arteries, cortical radiate arteries, afferent arterioles, glomerulus, efferent arterioles.",
+            "wrongAnswer_1": "The sequence is renal artery, renal vein, glomerulus, afferent arterioles.",
+            "wrongAnswer_2": "Blood flows through the renal vein followed by the segmental vein.",
+            "wrongAnswer_3": "Blood flows directly from the abdominal aorta to the collecting ducts.",
+            "wrongAnswer_4": "The vasculature involves heart arteries leading directly into the nephron."
+          },
+          {
+            "question": "Where does the renal artery form from?",
+            "goodAnswer": "The renal artery forms directly from the descending aorta.",
+            "wrongAnswer_1": "The renal artery forms from the iliac artery.",
+            "wrongAnswer_2": "The renal artery is an extension of the pulmonary artery.",
+            "wrongAnswer_3": "The renal artery branches from the hepatic artery.",
+            "wrongAnswer_4": "The renal artery originates from the subclavian artery."
+          },
+          {
+            "question": "What is the function of the afferent arterioles in the nephron?",
+            "goodAnswer": "Afferent arterioles lead into the glomerulus and help regulate blood pressure for filtration.",
+            "wrongAnswer_1": "Afferent arterioles absorb nutrients from the filtrate.",
+            "wrongAnswer_2": "Afferent arterioles carry blood away from the nephron after filtration.",
+            "wrongAnswer_3": "Afferent arterioles transport hormones to the distal tubule.",
+            "wrongAnswer_4": "Afferent arterioles store urine until excretion."
+          }
+        ]
+      }
+    ]
+  }
+}

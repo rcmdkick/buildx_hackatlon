@@ -1,0 +1,154 @@
+{
+  "mainTopic": {
+    "title": "Autonomic Pharmacology",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "team_name": "CyberMed",
+    "subTopics": [
+      {
+        "title": "Anatomy of the Autonomic System",
+        "quizzes": [
+          {
+            "question": "What is the origin of the preganglionic fibers in the parasympathetic division of the ANS?",
+            "goodAnswer": "Cranial nerves III, VII, IX, X, and S2-4",
+            "wrongAnswer_1": "Only cranial nerves IX and X",
+            "wrongAnswer_2": "Thoracic and lumbar spinal segments",
+            "wrongAnswer_3": "Only the vagus nerve (X)",
+            "wrongAnswer_4": "Cranial nerves V, VII, and IX"
+          },
+          {
+            "question": "What is the primary neurotransmitter for sympathetic postganglionic neurons?",
+            "goodAnswer": "Norepinephrine",
+            "wrongAnswer_1": "Acetylcholine",
+            "wrongAnswer_2": "Dopamine",
+            "wrongAnswer_3": "Serotonin",
+            "wrongAnswer_4": "Glutamate"
+          },
+          {
+            "question": "Which ANS division is described as 'flight or fight'?",
+            "goodAnswer": "Sympathetic division",
+            "wrongAnswer_1": "Parasympathetic division",
+            "wrongAnswer_2": "Somatic nervous system",
+            "wrongAnswer_3": "Enteric nervous system",
+            "wrongAnswer_4": "Central nervous system"
+          }
+        ]
+      },
+      {
+        "title": "Cholinergic neurotransmission and signal transduction",
+        "quizzes": [
+          {
+            "question": "Which muscarinic receptor subtype increases cardiac K+ conductance when activated?",
+            "goodAnswer": "M2",
+            "wrongAnswer_1": "M1",
+            "wrongAnswer_2": "M3",
+            "wrongAnswer_3": "M4",
+            "wrongAnswer_4": "M5"
+          },
+          {
+            "question": "Which substances can inhibit acetylcholinesterase to increase acetylcholine concentrations at the synapse?",
+            "goodAnswer": "Neostigmine and pyridostigmine",
+            "wrongAnswer_1": "Epinephrine and norepinephrine",
+            "wrongAnswer_2": "Atropine and scopolamine",
+            "wrongAnswer_3": "Clonidine and methyldopa",
+            "wrongAnswer_4": "Propranolol and atenolol"
+          },
+          {
+            "question": "What is the primary result of muscarinic receptor activation in cardiac tissue?",
+            "goodAnswer": "Decreased heart rate",
+            "wrongAnswer_1": "Increased heart rate",
+            "wrongAnswer_2": "Decrease in blood pressure",
+            "wrongAnswer_3": "Bronchodilation",
+            "wrongAnswer_4": "Vasoconstriction"
+          }
+        ]
+      },
+      {
+        "title": "Adrenergic Neurotransmission",
+        "quizzes": [
+          {
+            "question": "What is a characteristic effect of α-1 adrenergic receptor activation?",
+            "goodAnswer": "Vasoconstriction",
+            "wrongAnswer_1": "Vasodilation",
+            "wrongAnswer_2": "Bronchodilation",
+            "wrongAnswer_3": "Decreased heart rate",
+            "wrongAnswer_4": "Pupil constriction"
+          },
+          {
+            "question": "Which adrenergic receptor subtype is most involved in lipolysis in adipocytes?",
+            "goodAnswer": "β-3",
+            "wrongAnswer_1": "β-1",
+            "wrongAnswer_2": "β-2",
+            "wrongAnswer_3": "α-1",
+            "wrongAnswer_4": "α-2"
+          },
+          {
+            "question": "Which agent is primarily a selective β-2 adrenergic agonist used for bronchodilation?",
+            "goodAnswer": "Albuterol",
+            "wrongAnswer_1": "Epinephrine",
+            "wrongAnswer_2": "Dobutamine",
+            "wrongAnswer_3": "Norepinephrine",
+            "wrongAnswer_4": "Phenylephrine"
+          }
+        ]
+      },
+      {
+        "title": "Cholinergic agonists and antagonists",
+        "quizzes": [
+          {
+            "question": "What effect does atropine have on the heart?",
+            "goodAnswer": "Increases heart rate",
+            "wrongAnswer_1": "Decreases heart rate",
+            "wrongAnswer_2": "No effect on the heart",
+            "wrongAnswer_3": "Causes arrhythmias",
+            "wrongAnswer_4": "Blocks adrenergic receptors"
+          },
+          {
+            "question": "What is the primary mechanism of action for botulinum toxin in neuromuscular junctions?",
+            "goodAnswer": "Blocks acetylcholine release",
+            "wrongAnswer_1": "Enhances acetylcholine synthesis",
+            "wrongAnswer_2": "Blocks nicotinic receptors directly",
+            "wrongAnswer_3": "Increases acetylcholine release",
+            "wrongAnswer_4": "Decreases norepinephrine release"
+          },
+          {
+            "question": "What is considered the main toxicological use of nicotine?",
+            "goodAnswer": "As an insecticide",
+            "wrongAnswer_1": "As a bronchodilator",
+            "wrongAnswer_2": "As a decongestant",
+            "wrongAnswer_3": "As an antihypertensive",
+            "wrongAnswer_4": "As a diuretic"
+          }
+        ]
+      },
+      {
+        "title": "Adrenergic agonists and antagonists",
+        "quizzes": [
+          {
+            "question": "What is the main use of β-1 adrenergic agonists in cardiac care?",
+            "goodAnswer": "Increase myocardial contractility",
+            "wrongAnswer_1": "Decrease heart rate",
+            "wrongAnswer_2": "Reduce vascular resistance",
+            "wrongAnswer_3": "Increase vascular resistance",
+            "wrongAnswer_4": "Cause bronchodilation"
+          },
+          {
+            "question": "Which adrenergic antagonist is commonly used for the treatment of hypertension?",
+            "goodAnswer": "Prazosin",
+            "wrongAnswer_1": "Phenylephrine",
+            "wrongAnswer_2": "Dobutamine",
+            "wrongAnswer_3": "Epinephrine",
+            "wrongAnswer_4": "Isoproterenol"
+          },
+          {
+            "question": "Why might propranolol be used to treat migraines?",
+            "goodAnswer": "It has substantial CNS activity.",
+            "wrongAnswer_1": "It stimulates β-2 receptors.",
+            "wrongAnswer_2": "It increases vascular resistance.",
+            "wrongAnswer_3": "It acts as a selective α-1 agonist.",
+            "wrongAnswer_4": "It increases heart rate."
+          }
+        ]
+      }
+    ]
+  }
+}

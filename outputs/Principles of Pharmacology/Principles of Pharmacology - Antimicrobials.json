@@ -1,0 +1,114 @@
+{
+ "mainTopic": {
+    "title": "Antimicrobials",
+     "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+     "team_name": "CyberMed",
+     "subTopics": [
+       {
+         "title": "Introduction to antimicrobial therapy",
+         "quizzes": [
+           {
+             "question": "What concentration is necessary for successful antimicrobial therapy, and what are its two main forms?",
+             "goodAnswer": "Successful antimicrobial therapy occurs with an effective concentration, either bacteriostatic (MIC) or bactericidal (MBC).",
+             "wrongAnswer_1": "Successful therapy only requires bactericidal concentration.",
+             "wrongAnswer_2": "Successful therapy occurs with any concentration of antimicrobials.",
+             "wrongAnswer_3": "Successful therapy occurs with bacteriostatic concentration alone.",
+             "wrongAnswer_4": "Successful therapy does not depend on concentration."
+           },
+           {
+             "question": "Which factors are essential to determine in drug absorption?",
+             "goodAnswer": "Effects of food, gastric pH, and antacids on drug absorption are essential to determine.",
+             "wrongAnswer_1": "Only the effect of food is essential.",
+             "wrongAnswer_2": "Only the effect of gastric pH is necessary.",
+             "wrongAnswer_3": "Effects of temperature on drug absorption are essential.",
+             "wrongAnswer_4": "Antacids have no effect on drug absorption."
+           }
+         ]
+       },
+       {
+         "title": "Penicillins, Cephalosporins, and other beta-lactam drugs",
+         "quizzes": [
+           {
+             "question": "What is the main mechanism of bacterial resistance to penicillin?",
+             "goodAnswer": "The main mechanism is enzymatic hydrolysis of the β-lactam bond by β-lactamases.",
+             "wrongAnswer_1": "The main mechanism is the alteration of bacterial DNA.",
+             "wrongAnswer_2": "The main mechanism is alteration in lipid membranes.",
+             "wrongAnswer_3": "The main mechanism is the permeabilization of the bacterial cell wall.",
+             "wrongAnswer_4": "The main mechanism is the enhanced uptake of penicillin."
+           },
+           {
+             "question": "How do cephalosporins differ in spectrum of activity from penicillin?",
+             "goodAnswer": "Cephalosporins are broad-spectrum agents with increasing gram-negative activity from first to third generation.",
+             "wrongAnswer_1": "Cephalosporins primarily target gram-positive bacteria as penicillin does.",
+             "wrongAnswer_2": "Cephalosporins have no gram-positive activity.",
+             "wrongAnswer_3": "Cephalosporins are narrow-spectrum agents.",
+             "wrongAnswer_4": "Cephalosporins are only effective against aerobic bacteria."
+           }
+         ]
+       },
+       {
+         "title": "Aminoglycosides and Tetracycline",
+         "quizzes": [
+           {
+             "question": "What is a noted consequence of aminoglycosides binding to bacterial ribosomes?",
+             "goodAnswer": "Aminoglycosides inhibit protein synthesis and cause genetic code reading errors.",
+             "wrongAnswer_1": "Aminoglycosides cause increased nutrient absorption.",
+             "wrongAnswer_2": "Aminoglycosides stimulate protein synthesis.",
+             "wrongAnswer_3": "Aminoglycosides directly cause bacterial lysis.",
+             "wrongAnswer_4": "Aminoglycosides only bind to 50S ribosomal units."
+           },
+           {
+             "question": "What is the main mechanism of action for tetracyclines?",
+             "goodAnswer": "Tetracyclines inhibit protein synthesis by binding to the 30S ribosomal subunit.",
+             "wrongAnswer_1": "Tetracyclines disrupt the bacterial cell wall.",
+             "wrongAnswer_2": "Tetracyclines enhance DNA replication.",
+             "wrongAnswer_3": "Tetracyclines stimulate ribosome assembly.",
+             "wrongAnswer_4": "Tetracyclines bind exclusively to mammalian cells."
+           }
+         ]
+       },
+       {
+         "title": "Fluoroquinolones",
+         "quizzes": [
+           {
+             "question": "How do fluoroquinolones exert their bactericidal effect?",
+             "goodAnswer": "Fluoroquinolones inhibit DNA topoisomerases required for DNA supercoiling.",
+             "wrongAnswer_1": "Fluoroquinolones disrupt cell wall synthesis.",
+             "wrongAnswer_2": "Fluoroquinolones enhance membrane permeability.",
+             "wrongAnswer_3": "Fluoroquinolones bind to 50S ribosomal subunits.",
+             "wrongAnswer_4": "Fluoroquinolones stimulate DNA replication."
+           },
+           {
+             "question": "Which type of bacteria are fluoroquinolones particularly effective against?",
+             "goodAnswer": "Fluoroquinolones are particularly effective against aerobic gram-negative bacilli.",
+             "wrongAnswer_1": "Fluoroquinolones are only effective against gram-positive cocci.",
+             "wrongAnswer_2": "Fluoroquinolones exclusively target anaerobic bacteria.",
+             "wrongAnswer_3": "Fluoroquinolones are only effective against methicillin-resistant strains.",
+             "wrongAnswer_4": "Fluoroquinolones are only effective against fungi."
+           }
+         ]
+       },
+       {
+         "title": "General principles of antimicrobial use and antimicrobial resistance",
+         "quizzes": [
+           {
+             "question": "What are two critical reasons for combining antimicrobial agents in therapy?",
+             "goodAnswer": "To prevent resistant organisms emergence and achieve antimicrobial synergy.",
+             "wrongAnswer_1": "To increase side effects and achieve cost savings.",
+             "wrongAnswer_2": "To ensure rapid degradation and boost metabolism.",
+             "wrongAnswer_3": "To enhance bacterial mutation and preserve tissue integrity.",
+             "wrongAnswer_4": "To achieve easier administration and reduce protein binding."
+           },
+           {
+             "question": "Which factor influences the initial choice of antibiotics?",
+             "goodAnswer": "The identity of the infecting organism and its antimicrobial susceptibility pattern.",
+             "wrongAnswer_1": "The patient's dietary preferences.",
+             "wrongAnswer_2": "The geographic location of the patient.",
+             "wrongAnswer_3": "The color of the medication.",
+             "wrongAnswer_4": "The patient's family history of infections."
+           }
+         ]
+       }
+     ]
+   }
+ }

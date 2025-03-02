@@ -1,0 +1,154 @@
+{
+  "mainTopic": {
+    "title": "Accessory digestive organs",
+    "content_info": "The content includes both anatomical and physiological information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+    "team_name": "CyberMed",
+    "subTopics": [
+      {
+        "title": "The salivary glands",
+        "quizzes": [
+          {
+            "question": "Which gland is responsible for secreting watery saliva that contains salivary amylase?",
+            "goodAnswer": "Parotid glands",
+            "wrongAnswer_1": "Sublingual glands",
+            "wrongAnswer_2": "Submandibular glands",
+            "wrongAnswer_3": "Labial glands",
+            "wrongAnswer_4": "Palatal glands"
+          },
+          {
+            "question": "What is the primary function of the saliva secreted by the submandibular glands?",
+            "goodAnswer": "Contains amylase and mucus",
+            "wrongAnswer_1": "Primarily secretes watery amylase",
+            "wrongAnswer_2": "Secretes thick mucus",
+            "wrongAnswer_3": "Secretes lipase",
+            "wrongAnswer_4": "Secretes primarily bicarbonate"
+          },
+          {
+            "question": "Where is the sublingual gland located?",
+            "goodAnswer": "Below the tongue",
+            "wrongAnswer_1": "Between the skin and masseter muscle",
+            "wrongAnswer_2": "In the floor of the mouth",
+            "wrongAnswer_3": "Near the second upper molar",
+            "wrongAnswer_4": "In the cheeks"
+          }
+        ]
+      },
+      {
+        "title": "The liver",
+        "quizzes": [
+          {
+            "question": "What are the two main lobes of the liver?",
+            "goodAnswer": "Right and left lobes",
+            "wrongAnswer_1": "Anterior and posterior lobes",
+            "wrongAnswer_2": "Superior and inferior lobes",
+            "wrongAnswer_3": "Caudate and quadrate lobes",
+            "wrongAnswer_4": "Medial and lateral lobes"
+          },
+          {
+            "question": "What is the primary function of hepatocytes?",
+            "goodAnswer": "Perform secretory, metabolic, and endocrine functions",
+            "wrongAnswer_1": "Store and concentrate bile",
+            "wrongAnswer_2": "Produce pancreatic juice",
+            "wrongAnswer_3": "Initiate chemical breakdown of proteins",
+            "wrongAnswer_4": "Absorb water and electrolytes"
+          },
+          {
+            "question": "Which part of the liver is known as the 'gate to the liver'?",
+            "goodAnswer": "Porta hepatis",
+            "wrongAnswer_1": "Falciform ligament",
+            "wrongAnswer_2": "Hepatic sinusoids",
+            "wrongAnswer_3": "Bile canaliculi",
+            "wrongAnswer_4": "Hepatic laminae"
+          }
+        ]
+      },
+      {
+        "title": "The pancreas",
+        "quizzes": [
+          {
+            "question": "Which cells in the pancreas are responsible for secreting enzyme-rich pancreatic juice?",
+            "goodAnswer": "Acinar cells",
+            "wrongAnswer_1": "Islets of Langerhans",
+            "wrongAnswer_2": "Hepatocytes",
+            "wrongAnswer_3": "Kupffer cells",
+            "wrongAnswer_4": "Goblet cells"
+          },
+          {
+            "question": "What is the main duct that delivers pancreatic juice to the small intestine?",
+            "goodAnswer": "Pancreatic duct",
+            "wrongAnswer_1": "Cystic duct",
+            "wrongAnswer_2": "Common bile duct",
+            "wrongAnswer_3": "Accessory duct",
+            "wrongAnswer_4": "Hepatic duct"
+          },
+          {
+            "question": "What is the role of sodium bicarbonate in pancreatic juice?",
+            "goodAnswer": "Buffers acidic chyme",
+            "wrongAnswer_1": "Emulsifies fats",
+            "wrongAnswer_2": "Activates pepsin",
+            "wrongAnswer_3": "Stimulates bile secretion",
+            "wrongAnswer_4": "Neutralizes gastric acids"
+          }
+        ]
+      },
+      {
+        "title": "The gallbladder",
+        "quizzes": [
+          {
+            "question": "Where is the gallbladder located?",
+            "goodAnswer": "Posterior aspect of the right lobe of the liver",
+            "wrongAnswer_1": "Attached to the pancreas",
+            "wrongAnswer_2": "Inferior to the stomach",
+            "wrongAnswer_3": "Anterior to the small intestine",
+            "wrongAnswer_4": "Between the liver and diaphragm"
+          },
+          {
+            "question": "What is the function of the gallbladder?",
+            "goodAnswer": "Stores and concentrates bile",
+            "wrongAnswer_1": "Produces bile",
+            "wrongAnswer_2": "Synthesizes digestive enzymes",
+            "wrongAnswer_3": "Absorbs water and electrolytes",
+            "wrongAnswer_4": "Secretes hydrochloric acid"
+          },
+          {
+            "question": "What structure connects the gallbladder to the common bile duct?",
+            "goodAnswer": "Cystic duct",
+            "wrongAnswer_1": "Hepatic duct",
+            "wrongAnswer_2": "Pancreatic duct",
+            "wrongAnswer_3": "Common hepatic duct",
+            "wrongAnswer_4": "Accessory duct"
+          }
+        ]
+      },
+      {
+        "title": "The peritoneum",
+        "quizzes": [
+          {
+            "question": "What does the parietal peritoneum line?",
+            "goodAnswer": "Abdominal wall",
+            "wrongAnswer_1": "Visceral organs",
+            "wrongAnswer_2": "Diaphragm",
+            "wrongAnswer_3": "Pelvic cavity",
+            "wrongAnswer_4": "Retroperitoneal space"
+          },
+          {
+            "question": "What is the main purpose of the peritoneal cavity's watery fluid?",
+            "goodAnswer": "Minimize friction between serosal surfaces",
+            "wrongAnswer_1": "Absorb nutrients",
+            "wrongAnswer_2": "Store bile",
+            "wrongAnswer_3": "Provide immune defense",
+            "wrongAnswer_4": "Facilitate enzyme activity"
+          },
+          {
+            "question": "Which structure tethers the liver to the stomach?",
+            "goodAnswer": "Lesser omentum",
+            "wrongAnswer_1": "Mesocolon",
+            "wrongAnswer_2": "Greater omentum",
+            "wrongAnswer_3": "Falciform ligament",
+            "wrongAnswer_4": "Mesentery"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "mainTopic": {
+    "title": "Anti Inflammatory Drugs",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "team_name": "CyberMed",
+    "subTopics": [
+      {
+        "title": "Prostaglandins: physiologic and pathological functions",
+        "quizzes": [
+          {
+            "question": "What are the physiological roles of prostaglandins in the human body?",
+            "goodAnswer": "Temperature homeostasis, bronchial tone, and renal mucosa cytoprotection",
+            "wrongAnswer_1": "Temperature increase, kidney failure, neurotransmitter inhibition",
+            "wrongAnswer_2": "Muscle relaxation, airway dilation, protein synthesis",
+            "wrongAnswer_3": "Cell apoptosis, fever induction, blood sugar regulation",
+            "wrongAnswer_4": "Bone growth, heart rate acceleration, inflammation suppression"
+          },
+          {
+            "question": "Which specific prostaglandin is responsible for inhibiting platelet aggregation and causing vasodilation?",
+            "goodAnswer": "PGI2",
+            "wrongAnswer_1": "PGE2",
+            "wrongAnswer_2": "TXA2",
+            "wrongAnswer_3": "PGD2",
+            "wrongAnswer_4": "PGF2α"
+          }
+        ]
+      },
+      {
+        "title": "Overview of NSAIDs: General pharmacodynamics and pharmacokinetics of NSAIDS",
+        "quizzes": [
+          {
+            "question": "How do most NSAIDs (excluding aspirin) inhibit cyclooxygenase?",
+            "goodAnswer": "They act as reversible, competitive cyclooxygenase inhibitors.",
+            "wrongAnswer_1": "They permanently bind to cyclooxygenase, making it inactive.",
+            "wrongAnswer_2": "They inhibit cyclooxygenase by reducing its expression in the body.",
+            "wrongAnswer_3": "They alter the genetic coding of cyclooxygenase enzymes.",
+            "wrongAnswer_4": "They increase the breakdown of cyclooxygenase via liver enzymes."
+          },
+          {
+            "question": "What are the primary therapeutic effects of NSAIDs?",
+            "goodAnswer": "Analgesia, anti-pyrexia, and anti-inflammatory",
+            "wrongAnswer_1": "Fever induction, immune suppression, and sedation",
+            "wrongAnswer_2": "Muscle relaxation, blood pressure increase, and appetite suppression",
+            "wrongAnswer_3": "Stress reduction, skin hydration, and reproductive enhancement",
+            "wrongAnswer_4": "Nerve depolarization, respiratory rate increase, and fracture healing"
+          }
+        ]
+      },
+      {
+        "title": "Toxic side effects of NSAIDs",
+        "quizzes": [
+          {
+            "question": "What are some common toxic side effects of NSAIDs related to the gastrointestinal system?",
+            "goodAnswer": "Gastric irritation, peptic ulcer disease, mucosal lesions, and bleeding",
+            "wrongAnswer_1": "Increased appetite, rapid digestion, and enhanced nutrient absorption",
+            "wrongAnswer_2": "Malnutrition, esophageal constriction, and bile overproduction",
+            "wrongAnswer_3": "Improved gut flora, smooth muscle relaxation, and reduced urination",
+            "wrongAnswer_4": "Pancreatitis, gallbladder pain, and liver cirrhosis"
+          },
+          {
+            "question": "Which statement is accurate regarding the hematologic effects of NSAIDs?",
+            "goodAnswer": "They impair platelet aggregation, prolong bleeding time, and function as anticoagulants.",
+            "wrongAnswer_1": "They enhance platelet production and reduce bleeding times.",
+            "wrongAnswer_2": "They prevent blood clots without affecting platelets.",
+            "wrongAnswer_3": "They cause short-term increases in platelet activity.",
+            "wrongAnswer_4": "They lead to chronic anemia by destroying red blood cells."
+          }
+        ]
+      },
+      {
+        "title": "COX-2 Selective Inhibitors",
+        "quizzes": [
+          {
+            "question": "Why are COX-2 selective inhibitors considered over traditional NSAIDs?",
+            "goodAnswer": "They are designed to limit gastrointestinal toxicity associated with NSAIDs.",
+            "wrongAnswer_1": "They completely eradicate inflammation in all tissues.",
+            "wrongAnswer_2": "They enhance immune function and prevent infections.",
+            "wrongAnswer_3": "They double the body's natural anti-inflammatory processes.",
+            "wrongAnswer_4": "They benefit cardiovascular health by reducing blood pressure."
+          },
+          {
+            "question": "What is a potential risk associated with COX-2 inhibitors?",
+            "goodAnswer": "Increased risk of thrombotic events during chronic therapy",
+            "wrongAnswer_1": "Development of long-lasting antihistamine effects",
+            "wrongAnswer_2": "Permanent neuronal growth stimulation",
+            "wrongAnswer_3": "Complete suppression of metabolic rate",
+            "wrongAnswer_4": "Unchecked synaptic activity in the CNS"
+          }
+        ]
+      },
+      {
+        "title": "Overview, therapeutic effects, and toxic side effects of Glucocorticoids",
+        "quizzes": [
+          {
+            "question": "How do glucocorticoids exert their anti-inflammatory effects?",
+            "goodAnswer": "By inhibiting COX-2 and reducing cytokine expression",
+            "wrongAnswer_1": "By enhancing COX-1 activity and increasing eicosanoid production",
+            "wrongAnswer_2": "Through promoting lymphocyte proliferation and immune system stimulation",
+            "wrongAnswer_3": "By elevating prostaglandin secretion throughout the body",
+            "wrongAnswer_4": "By forming irreversible bonds with cytokines"
+          },
+          {
+            "question": "What are some systemic side effects of glucocorticoids?",
+            "goodAnswer": "Hyperglycemia, osteoporosis, and immunosuppression",
+            "wrongAnswer_1": "Muscle hypertrophy, increased bone density, and improved eyesight",
+            "wrongAnswer_2": "Low blood sugar, weakened cardiovascular system, and rapid growth",
+            "wrongAnswer_3": "Weight loss, hypokalemia, and enhanced blood circulation",
+            "wrongAnswer_4": "Tissue regeneration, balanced mood, and detoxification"
+          }
+        ]
+      },
+      {
+        "title": "Steroid withdrawal and glucocorticoid replacement",
+        "quizzes": [
+          {
+            "question": "What must be done when withdrawing patients from glucocorticoids?",
+            "goodAnswer": "Slow tapering to avoid withdrawal symptoms like nausea and lethargy.",
+            "wrongAnswer_1": "Immediate cessation to restore adrenal function quickly.",
+            "wrongAnswer_2": "Supplement with additional NSAIDs to prevent inflammation.",
+            "wrongAnswer_3": "Switch to higher doses of non-steroidal treatments.",
+            "wrongAnswer_4": "Combine with diuretics to enhance detoxification."
+          },
+          {
+            "question": "What is a common strategy during surgery for patients on glucocorticoid treatment?",
+            "goodAnswer": "Administer stress dose steroids equivalent to 300 mg of hydrocortisone.",
+            "wrongAnswer_1": "Reduce steroid dose by half for faster recovery.",
+            "wrongAnswer_2": "Withdraw steroids entirely for 24 hours before surgery.",
+            "wrongAnswer_3": "Replace glucocorticoids with non-specific NSAIDs.",
+            "wrongAnswer_4": "Only provide steroids post-operation to check for side effects."
+          }
+        ]
+      },
+      {
+        "title": "Anti-cytokine agents",
+        "quizzes": [
+          {
+            "question": "What is the main action of anti-cytokine agents in rheumatoid arthritis?",
+            "goodAnswer": "Inhibit pro-inflammatory effects of cytokines like TNFα and IL-1.",
+            "wrongAnswer_1": "Completely remove all cytokines from joint tissues.",
+            "wrongAnswer_2": "Encourage the growth of joint tissue and cartilage.",
+            "wrongAnswer_3": "Promote cytokine-induced apoptosis for quick healing.",
+            "wrongAnswer_4": "Block pain transmission to prevent symptoms."
+          },
+          {
+            "question": "What is a potential side effect of anti-cytokine agents?",
+            "goodAnswer": "Opportunistic infections due to immunosuppression",
+            "wrongAnswer_1": "Hyperactivity due to increased energy release from cells",
+            "wrongAnswer_2": "Complete loss of white blood cells making it hard to fight bacteria",
+            "wrongAnswer_3": "Rapid muscle gain with excessive fat oxidation",
+            "wrongAnswer_4": "Insomnia from elevated neurotransmitter activity"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+ "mainTopic": {
+    "title": "The evaluation of chest pain",
+    "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+    "team_name": "CyberMed",
+    "subTopics": [
+      {
+        "title": "Cardiac causes",
+        "quizzes": [
+          {
+            "question": "What are common cardiac causes of chest pain?",
+            "goodAnswer": "Myocardial infarction and angina",
+            "wrongAnswer_1": "Peptic ulcer and GERD",
+            "wrongAnswer_2": "Rib fracture and costochondritis",
+            "wrongAnswer_3": "Aortic dissection and aneurysm",
+            "wrongAnswer_4": "Pneumonia and pneumothorax"
+          },
+          {
+            "question": "How does myocardial infarction typically present in terms of chest pain?",
+            "goodAnswer": "Sudden onset, severe, crushing chest pain",
+            "wrongAnswer_1": "Gradual onset, sharp pain localized to one area",
+            "wrongAnswer_2": "Stabbing pain that worsens with breathing",
+            "wrongAnswer_3": "Dull pain that changes with position",
+            "wrongAnswer_4": "Intermittent pain relieved by eating"
+          }
+        ]
+      },
+      {
+        "title": "Gastrointestinal causes",
+        "quizzes": [
+          {
+            "question": "Which gastrointestinal condition commonly causes chest pain that mimics cardiac pain?",
+            "goodAnswer": "Gastroesophageal reflux disease (GERD)",
+            "wrongAnswer_1": "Gastritis",
+            "wrongAnswer_2": "Irritable bowel syndrome (IBS)",
+            "wrongAnswer_3": "Hepatitis",
+            "wrongAnswer_4": "Pancreatitis"
+          },
+          {
+            "question": "What symptom distinguishes GERD-related chest pain from cardiac-related chest pain?",
+            "goodAnswer": "Pain worsens when lying down",
+            "wrongAnswer_1": "Pain occurs in exertion",
+            "wrongAnswer_2": "Pain radiates to the left arm",
+            "wrongAnswer_3": "Pain is relieved by nitroglycerin",
+            "wrongAnswer_4": "Pain is sharp and localized"
+          }
+        ]
+      },
+      {
+        "title": "Musculoskeletal causes",
+        "quizzes": [
+          {
+            "question": "Which musculoskeletal condition often leads to chest pain exacerbated by movement?",
+            "goodAnswer": "Costochondritis",
+            "wrongAnswer_1": "Hiatal hernia",
+            "wrongAnswer_2": "Mitral valve prolapse",
+            "wrongAnswer_3": "Pulmonary embolism",
+            "wrongAnswer_4": "Pleuritis"
+          }
+        ]
+      },
+      {
+        "title": "Aortic causes",
+        "quizzes": [
+          {
+            "question": "What is a major cause of chest pain related to the aorta?",
+            "goodAnswer": "Aortic dissection",
+            "wrongAnswer_1": "Pericarditis",
+            "wrongAnswer_2": "Esophageal spasm",
+            "wrongAnswer_3": "Peptic ulcer disease",
+            "wrongAnswer_4": "Pulmonary hypertension"
+          },
+          {
+            "question": "What type of pain is typically associated with aortic dissection?",
+            "goodAnswer": "Sudden, severe tearing pain",
+            "wrongAnswer_1": "Constant, dull aching pain",
+            "wrongAnswer_2": "Sharp pain on inspiration",
+            "wrongAnswer_3": "Burning sensation under the breastbone",
+            "wrongAnswer_4": "Episodic pain relieved by rest"
+          }
+        ]
+      },
+      {
+        "title": "Pulmonary causes",
+        "quizzes": [
+          {
+            "question": "What pulmonary condition is a common cause of chest pain?",
+            "goodAnswer": "Pneumothorax",
+            "wrongAnswer_1": "Hiatal hernia",
+            "wrongAnswer_2": "Aortic stenosis",
+            "wrongAnswer_3": "Panic attack",
+            "wrongAnswer_4": "Gastroenteritis"
+          },
+          {
+            "question": "Which symptom is typically associated with pneumothorax-related chest pain?",
+            "goodAnswer": "Sudden onset of sharp, unilateral chest pain",
+            "wrongAnswer_1": "Dull, bilateral chest pain",
+            "wrongAnswer_2": "Persistent, crushing pain",
+            "wrongAnswer_3": "Burning sensation behind the sternum",
+            "wrongAnswer_4": "Pain radiating to the back and neck"
+          }
+        ]
+      },
+      {
+        "title": "Psychological causes",
+        "quizzes": [
+          {
+            "question": "What psychological disorder often presents with chest pain?",
+            "goodAnswer": "Panic disorder",
+            "wrongAnswer_1": "Schizophrenia",
+            "wrongAnswer_2": "Obsessive-Compulsive Disorder",
+            "wrongAnswer_3": "ADHD",
+            "wrongAnswer_4": "Bipolar disorder"
+          },
+          {
+            "question": "How can chest pain from panic disorder generally be distinguished from cardiac chest pain?",
+            "goodAnswer": "Associated with hyperventilation and dizziness",
+            "wrongAnswer_1": "Pain only occurs during physical exertion",
+            "wrongAnswer_2": "Pain resolves with antacid use",
+            "wrongAnswer_3": "Pain increases when lying flat",
+            "wrongAnswer_4": "Pain radiates to the lower extremities"
+          }
+        ]
+      }
+    ]
+  }
+}

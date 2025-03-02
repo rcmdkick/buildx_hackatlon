@@ -1,0 +1,108 @@
+{
+  "mainTopic": {
+    "title": "Vasoactive Drugs for Congestive Heart Failure",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "team_name": "CyberMed",
+    "subTopics": [
+      {
+        "title": "Physiology and definition of congestive heart failure",
+        "quizzes": [
+          {
+            "question": "What characterizes uncompensated congestive heart failure?",
+            "goodAnswer": "Elevated left ventricular end-diastolic pressure (LVEDP)",
+            "wrongAnswer_1": "Decreased arterial resistance",
+            "wrongAnswer_2": "Increased ejection fraction",
+            "wrongAnswer_3": "Reduced venous return",
+            "wrongAnswer_4": "Stable pulmonary circulation"
+          },
+          {
+            "question": "Which of the following is NOT a symptom of congestive heart failure?",
+            "goodAnswer": "High energy levels",
+            "wrongAnswer_1": "Shortness of breath",
+            "wrongAnswer_2": "Fatigue",
+            "wrongAnswer_3": "Orthopnea",
+            "wrongAnswer_4": "Paroxysmal nocturnal dyspnea"
+          }
+        ]
+      },
+      {
+        "title": "Definition of congestive heart failure and mortality",
+        "quizzes": [
+          {
+            "question": "What is the approximate 5-year mortality rate for all comers with congestive heart failure?",
+            "goodAnswer": "50%",
+            "wrongAnswer_1": "10%",
+            "wrongAnswer_2": "25%",
+            "wrongAnswer_3": "75%",
+            "wrongAnswer_4": "90%"
+          }
+        ]
+      },
+      {
+        "title": "5 main physiologic ways to get heart failure",
+        "quizzes": [
+          {
+            "question": "What is a chronic cause of heart failure related to decreased strength of the left ventricle?",
+            "goodAnswer": "Dilated cardiomyopathy due to viral illnesses",
+            "wrongAnswer_1": "Hypertrophic cardiomyopathy",
+            "wrongAnswer_2": "Acute stress cardiomyopathy",
+            "wrongAnswer_3": "Restrictive cardiomyopathy",
+            "wrongAnswer_4": "Ventricular fibrillation"
+          }
+        ]
+      },
+      {
+        "title": "Treatment of congestive heart failure according to its mechanism",
+        "quizzes": [
+          {
+            "question": "Which drug is known to improve arterial loading conditions in congestive heart failure patients?",
+            "goodAnswer": "ACE inhibitors",
+            "wrongAnswer_1": "Beta-blockers",
+            "wrongAnswer_2": "Calcium channel blockers",
+            "wrongAnswer_3": "Diuretics",
+            "wrongAnswer_4": "Inotropes"
+          }
+        ]
+      },
+      {
+        "title": "Management of secondary neuroendocrine effects",
+        "quizzes": [
+          {
+            "question": "Which of the following confers a mortality benefit in managing secondary neuroendocrine effects of CHF?",
+            "goodAnswer": "Spironolactone",
+            "wrongAnswer_1": "Digoxin",
+            "wrongAnswer_2": "Milrinone",
+            "wrongAnswer_3": "Furosemide",
+            "wrongAnswer_4": "Amrinone"
+          }
+        ]
+      },
+      {
+        "title": "Beta Blockers in the management of congestive heart failure",
+        "quizzes": [
+          {
+            "question": "Why are beta-blockers used in the treatment of congestive heart failure?",
+            "goodAnswer": "They interfere with secondary neuroendocrine events",
+            "wrongAnswer_1": "They increase heart rate significantly",
+            "wrongAnswer_2": "They primarily improve ejection fraction directly",
+            "wrongAnswer_3": "They act as vasodilators",
+            "wrongAnswer_4": "They increase renin production"
+          }
+        ]
+      },
+      {
+        "title": "Severe congestive heart failure",
+        "quizzes": [
+          {
+            "question": "What is a common therapy for severe decompensated congestive heart failure?",
+            "goodAnswer": "Intra-aortic balloon pumping",
+            "wrongAnswer_1": "Regular physical exercise",
+            "wrongAnswer_2": "Dietary salt increase",
+            "wrongAnswer_3": "Calcium supplements",
+            "wrongAnswer_4": "Vasopressor agents"
+          }
+        ]
+      }
+    ]
+  }
+}

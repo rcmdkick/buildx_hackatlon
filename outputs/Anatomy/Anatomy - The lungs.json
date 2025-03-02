@@ -1,0 +1,101 @@
+{
+ "mainTopic": {
+    "title": "The lungs",
+    "content_info": "The content includes both anatomical and physiological information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+    "team_name": "CyberMed",
+    "subTopics": [
+      {
+        "title": "Gross anatomy of the lungs",
+        "quizzes": [
+          {
+            "question": "What is the shape of the lungs and how do they connect to the trachea?",
+            "goodAnswer": "The lungs are pyramid-shaped and connect to the trachea by the right and left bronchi.",
+            "wrongAnswer_1": "The lungs are spherical and connect to the trachea via alveoli.",
+            "wrongAnswer_2": "The lungs are cylindrical and connect to the trachea via capillaries.",
+            "wrongAnswer_3": "The lungs are cuboid and connect to the trachea via bronchioles.",
+            "wrongAnswer_4": "The lungs are flat and connect to the trachea via arteries."
+          },
+          {
+            "question": "Which lung is shorter and wider, and what surface feature allows space for the heart?",
+            "goodAnswer": "The right lung is shorter and wider, and the cardiac notch on the left lung allows space for the heart.",
+            "wrongAnswer_1": "The left lung is shorter and wider, and the apex allows space for the heart.",
+            "wrongAnswer_2": "The right lung is shorter and wider, and the mediastinal surface allows space for the heart.",
+            "wrongAnswer_3": "The left lung is shorter and wider, and the base allows space for the heart.",
+            "wrongAnswer_4": "The right lung is shorter and wider, and the costal surface allows space for the heart."
+          },
+          {
+            "question": "How many lobes does each lung have and how are they separated?",
+            "goodAnswer": "The right lung has three lobes and the left lung has two lobes; they are separated by fissures.",
+            "wrongAnswer_1": "Both lungs have two lobes separated by bronchi.",
+            "wrongAnswer_2": "The left lung has three lobes and the right lung has two lobes; they are separated by squamous epithelium.",
+            "wrongAnswer_3": "Both lungs have three lobes separated by cartilage.",
+            "wrongAnswer_4": "The right lung has four lobes and the left lung has three lobes; they are separated by capillaries."
+          }
+        ]
+      },
+      {
+        "title": "Blood supply",
+        "quizzes": [
+          {
+            "question": "What role does the pulmonary artery play in the lungs?",
+            "goodAnswer": "The pulmonary artery carries deoxygenated blood to the alveoli for gas exchange.",
+            "wrongAnswer_1": "The pulmonary artery carries oxygenated blood away from the alveoli to the heart.",
+            "wrongAnswer_2": "The pulmonary artery carries nutrients to lung tissues.",
+            "wrongAnswer_3": "The pulmonary artery collects waste from lung tissues.",
+            "wrongAnswer_4": "The pulmonary artery supplies the lungs with carbon dioxide."
+          },
+          {
+            "question": "What is the smallest unit in the pulmonary circulation, and what does it supply?",
+            "goodAnswer": "An arteriole is the smallest unit, supplying a pulmonary lobule.",
+            "wrongAnswer_1": "A venule is the smallest unit, supplying oxygenated blood to the bronchi.",
+            "wrongAnswer_2": "A capillary is the smallest unit, directly supplying alveoli with air.",
+            "wrongAnswer_3": "A bronchus is the smallest unit, supplying air to the trachea.",
+            "wrongAnswer_4": "A bronchiole is the smallest unit, supplying blood directly to the heart."
+          }
+        ]
+      },
+      {
+        "title": "Nervous innervation",
+        "quizzes": [
+          {
+            "question": "What is the role of the parasympathetic nervous system in the lungs?",
+            "goodAnswer": "The parasympathetic nervous system causes bronchoconstriction.",
+            "wrongAnswer_1": "The parasympathetic nervous system facilitates pulmonary surfactant production.",
+            "wrongAnswer_2": "The parasympathetic nervous system stimulates gas exchange in the alveoli.",
+            "wrongAnswer_3": "The parasympathetic nervous system enhances the production of erythrocytes.",
+            "wrongAnswer_4": "The parasympathetic nervous system stimulates bronchodilation."
+          },
+          {
+            "question": "What forms the pulmonary plexus and what is its function?",
+            "goodAnswer": "The pulmonary plexus is formed by nerve fibres entering at the lung root and helps control airway constriction.",
+            "wrongAnswer_1": "The pulmonary plexus is formed by alveolar macrophages and aids in gas exchange.",
+            "wrongAnswer_2": "The pulmonary plexus is formed by arterial capillaries and aids in oxygen diffusion.",
+            "wrongAnswer_3": "The pulmonary plexus is formed by the pleura and aids in lung lubrication.",
+            "wrongAnswer_4": "The pulmonary plexus is formed by bronchial smooth muscle fibres and aids in mucus secretion."
+          }
+        ]
+      },
+      {
+        "title": "Pleura of the lungs",
+        "quizzes": [
+          {
+            "question": "What are the layers of pleura surrounding the lungs, and what do they enclose?",
+            "goodAnswer": "The pleura consist of visceral and parietal layers, enclosing each lung.",
+            "wrongAnswer_1": "The pleura consist of tracheal and bronchial layers, enclosing the alveoli.",
+            "wrongAnswer_2": "The pleura consist of diaphragm and thoracic layers, enclosing the heart.",
+            "wrongAnswer_3": "The pleura consist of mediastinal and costal layers, enclosing the bronchi.",
+            "wrongAnswer_4": "The pleura consist of cardiac and gastric layers, enclosing the liver."
+          },
+          {
+            "question": "What is the role of pleural fluid, and where is it located?",
+            "goodAnswer": "Pleural fluid is located in the pleural cavity and reduces friction during breathing.",
+            "wrongAnswer_1": "Pleural fluid is found in the alveoli and aids in oxygen exchange.",
+            "wrongAnswer_2": "Pleural fluid circulates in the bloodstream and enhances blood oxygen levels.",
+            "wrongAnswer_3": "Pleural fluid is found in the bronchi and lubricates the airway.",
+            "wrongAnswer_4": "Pleural fluid resides in the diaphragm and supports muscle contraction."
+          }
+        ]
+      }
+    ]
+  }
+}

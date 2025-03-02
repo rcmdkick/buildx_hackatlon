@@ -1,0 +1,114 @@
+{
+ "mainTopic": {
+    "title": "Temperature and the testis",
+     "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+     "team_name": "CyberMed",
+     "subTopics": [
+       {
+         "title": "Historical",
+         "quizzes": [
+           {
+             "question": "Who first described the relationship between temperature and testicular function?",
+             "goodAnswer": "John Hunter",
+             "wrongAnswer_1": "Charles Darwin",
+             "wrongAnswer_2": "Louis Pasteur",
+             "wrongAnswer_3": "Gregor Mendel",
+             "wrongAnswer_4": "Antoine Lavoisier"
+           },
+           {
+             "question": "What is a key historical method that was used to study the effect of temperature on the testis?",
+             "goodAnswer": "Scrotal insulation",
+             "wrongAnswer_1": "Cryogenic freezing",
+             "wrongAnswer_2": "Thermal imaging",
+             "wrongAnswer_3": "Radioactive tracers",
+             "wrongAnswer_4": "X-ray irradiation"
+           }
+         ]
+       },
+       {
+         "title": "Anatomy and physiology",
+         "quizzes": [
+           {
+             "question": "Where are the testis situated in the male body in relation to temperature regulation?",
+             "goodAnswer": "Scrotum",
+             "wrongAnswer_1": "Abdominal cavity",
+             "wrongAnswer_2": "Pelvic cavity",
+             "wrongAnswer_3": "Thoracic region",
+             "wrongAnswer_4": "Inguinal canal"
+           },
+           {
+             "question": "Which structure in the male reproductive system aids in cooling the blood before it reaches the testis?",
+             "goodAnswer": "Pampiniform plexus",
+             "wrongAnswer_1": "Ductus deferens",
+             "wrongAnswer_2": "Epididymis",
+             "wrongAnswer_3": "Seminal vesicles",
+             "wrongAnswer_4": "Prostatic urethra"
+           }
+         ]
+       },
+       {
+         "title": "Varicoceles, Incompetent valves",
+         "quizzes": [
+           {
+             "question": "What is a common condition that can lead to increased testicular temperature?",
+             "goodAnswer": "Varicocele",
+             "wrongAnswer_1": "Hydrocele",
+             "wrongAnswer_2": "Spermatocele",
+             "wrongAnswer_3": "Cryptorchidism",
+             "wrongAnswer_4": "Hernia"
+           },
+           {
+             "question": "In which part of the male anatomy are varicoceles typically found?",
+             "goodAnswer": "Spermatic cord",
+             "wrongAnswer_1": "Vas deferens",
+             "wrongAnswer_2": "Epididymis",
+             "wrongAnswer_3": "Testicular tubules",
+             "wrongAnswer_4": "Penile shaft"
+           }
+         ]
+       },
+       {
+         "title": "Basic science",
+         "quizzes": [
+           {
+             "question": "Which cells are primarily affected by increased testicular temperature?",
+             "goodAnswer": "Sertoli cells",
+             "wrongAnswer_1": "Leydig cells",
+             "wrongAnswer_2": "Spermatogonia",
+             "wrongAnswer_3": "Spermatocytes",
+             "wrongAnswer_4": "Epididymal cells"
+           },
+           {
+             "question": "How does temperature stress affect spermatogenesis?",
+             "goodAnswer": "It disrupts the development of sperm cells.",
+             "wrongAnswer_1": "It enhances testosterone production.",
+             "wrongAnswer_2": "It increases Sertoli cell activity.",
+             "wrongAnswer_3": "It decreases blood flow to the testis.",
+             "wrongAnswer_4": "It boosts epididymal function."
+           }
+         ]
+       },
+       {
+         "title": "Heat and male contraception",
+         "quizzes": [
+           {
+             "question": "Which method uses heat as a form of male contraception?",
+             "goodAnswer": "Testicular heating",
+             "wrongAnswer_1": "Scrotal cooling",
+             "wrongAnswer_2": "Vasectomy",
+             "wrongAnswer_3": "Condom usage",
+             "wrongAnswer_4": "Oral medication"
+           },
+           {
+             "question": "What is the primary effect of heat on male fertility?",
+             "goodAnswer": "It reduces sperm production.",
+             "wrongAnswer_1": "It increases libido.",
+             "wrongAnswer_2": "It enhances erection quality.",
+             "wrongAnswer_3": "It improves sperm motility.",
+             "wrongAnswer_4": "It boosts testosterone levels."
+           }
+         ]
+       }
+     ]
+   }
+ }

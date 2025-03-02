@@ -1,0 +1,135 @@
+{
+ "mainTopic": {
+   "title": "Epithelium",
+   "content_info": "The uploaded materials in the PDF files are PowerPoint slides. There are several slides with pictures and diagrams on them, but you can find all the necessary information to form the questions from the slides that have text on them.",
+   "team_name": "CyberMed",
+   "subTopics": [
+     {
+       "title": "Overview and definition of epithelium",
+       "quizzes": [
+         {
+           "question": "What is the primary function of epithelial tissue?",
+           "goodAnswer": "To cover surfaces and line cavities",
+           "wrongAnswer_1": "To support other tissues",
+           "wrongAnswer_2": "To store energy",
+           "wrongAnswer_3": "To facilitate movement",
+           "wrongAnswer_4": "To conduct electrical impulses"
+         },
+         {
+           "question": "Which of the following best describes the structure of epithelium?",
+           "goodAnswer": "Closely packed cells with minimal extracellular matrix",
+           "wrongAnswer_1": "Cells scattered within a large amount of extracellular matrix",
+           "wrongAnswer_2": "Loosely connected cells with extensive extracellular matrix",
+           "wrongAnswer_3": "Cells embedded in a gelatinous extracellular matrix",
+           "wrongAnswer_4": "Fibers surrounding isolated cells"
+         }
+       ]
+     },
+     {
+       "title": "Classification of epithelium",
+       "quizzes": [
+         {
+           "question": "What characteristic is used to classify epithelial tissue?",
+           "goodAnswer": "The number of cell layers and the shape of surface cells",
+           "wrongAnswer_1": "The type of extracellular matrix",
+           "wrongAnswer_2": "The presence of blood vessels",
+           "wrongAnswer_3": "The rate of cell turnover",
+           "wrongAnswer_4": "The presence of nerve endings"
+         },
+         {
+           "question": "How is 'stratified squamous epithelium' best defined?",
+           "goodAnswer": "Multiple layers of cells with the top layer being flat",
+           "wrongAnswer_1": "A single layer of flat cells",
+           "wrongAnswer_2": "Multiple layers of cube-shaped cells",
+           "wrongAnswer_3": "A single layer of cube-shaped cells",
+           "wrongAnswer_4": "Multiple layers of columnar cells"
+         }
+       ]
+     },
+     {
+       "title": "Apical cell surface specializations and functions",
+       "quizzes": [
+         {
+           "question": "What is the main function of microvilli found on epithelial cells?",
+           "goodAnswer": "To increase surface area for absorption",
+           "wrongAnswer_1": "To facilitate cell movement",
+           "wrongAnswer_2": "To anchor cells to the basement membrane",
+           "wrongAnswer_3": "To produce secretions",
+           "wrongAnswer_4": "To transmit electrical signals"
+         },
+         {
+           "question": "What is a key feature of cilia on epithelial cells?",
+           "goodAnswer": "They move fluid across the cell surface",
+           "wrongAnswer_1": "They bind cells together",
+           "wrongAnswer_2": "They produce extracellular matrix",
+           "wrongAnswer_3": "They store and release enzymes",
+           "wrongAnswer_4": "They provide structural support"
+         }
+       ]
+     },
+     {
+       "title": "Specialized and unspecialized epithelial cells",
+       "quizzes": [
+         {
+           "question": "What distinguishes specialized epithelial cells from unspecialized ones?",
+           "goodAnswer": "Presence of unique structures for specific functions",
+           "wrongAnswer_1": "Greater size and volume",
+           "wrongAnswer_2": "Higher mitotic rate",
+           "wrongAnswer_3": "Lower metabolic activity",
+           "wrongAnswer_4": "Larger extracellular matrix"
+         },
+         {
+           "question": "What role do goblet cells play in epithelial tissue?",
+           "goodAnswer": "Secretion of mucus",
+           "wrongAnswer_1": "Absorption of nutrients",
+           "wrongAnswer_2": "Providing structural support",
+           "wrongAnswer_3": "Producing elastin fibers",
+           "wrongAnswer_4": "Phagocytosing pathogens"
+         }
+       ]
+     },
+     {
+       "title": "Types of Intercellular junctions and hemidesmosomes",
+       "quizzes": [
+         {
+           "question": "Which structure connects epithelial cells to the basement membrane?",
+           "goodAnswer": "Hemidesmosomes",
+           "wrongAnswer_1": "Tight junctions",
+           "wrongAnswer_2": "Desmosomes",
+           "wrongAnswer_3": "Gap junctions",
+           "wrongAnswer_4": "Adherens junctions"
+         },
+         {
+           "question": "What is the function of tight junctions in epithelial cells?",
+           "goodAnswer": "To prevent leakage of molecules between cells",
+           "wrongAnswer_1": "To allow communication between cells",
+           "wrongAnswer_2": "To provide flexibility to the cell layer",
+           "wrongAnswer_3": "To anchor cells to the basement membrane",
+           "wrongAnswer_4": "To facilitate exchange of ions between cells"
+         }
+       ]
+     },
+     {
+       "title": "Exocrine and endocrine glands of secretory epithelium",
+       "quizzes": [
+         {
+           "question": "How do endocrine glands release their products?",
+           "goodAnswer": "Directly into the bloodstream",
+           "wrongAnswer_1": "Through a duct to a surface",
+           "wrongAnswer_2": "Via exocytosis into the lumen",
+           "wrongAnswer_3": "By directly diffusing through the cell membrane",
+           "wrongAnswer_4": "Through gap junctions to adjacent cells"
+         },
+         {
+           "question": "What characterizes exocrine glands?",
+           "goodAnswer": "They have ducts to carry secretions to a surface",
+           "wrongAnswer_1": "They secrete hormones directly into blood",
+           "wrongAnswer_2": "They store products within vesicles for future release",
+           "wrongAnswer_3": "They break down food particles",
+           "wrongAnswer_4": "They transmit nerve signals"
+         }
+       ]
+     }
+   ]
+ }
+}

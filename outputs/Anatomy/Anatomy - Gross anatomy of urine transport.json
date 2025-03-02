@@ -1,0 +1,96 @@
+{
+  "mainTopic": {
+    "title": "Gross anatomy of urine transport",
+    "content_info": "The content includes both anatomical and physiological information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+    "team_name": "CyberMed",
+    "subTopics": [
+      {
+        "title": "Ureters",
+        "quizzes": [
+          {
+            "question": "What is the length of the ureters in humans?",
+            "goodAnswer": "Approximately 30 cm",
+            "wrongAnswer_1": "Around 10 cm",
+            "wrongAnswer_2": "Less than 5 cm",
+            "wrongAnswer_3": "More than 50 cm",
+            "wrongAnswer_4": "About 100 cm"
+          },
+          {
+            "question": "What is the significance of the oblique entry of the ureters into the bladder?",
+            "goodAnswer": "It creates a one-way valve to prevent reflux of urine from bladder to ureter",
+            "wrongAnswer_1": "It allows urine to flow faster into the bladder",
+            "wrongAnswer_2": "It reduces the risk of ureteral rupture",
+            "wrongAnswer_3": "It strengthens the bladder wall",
+            "wrongAnswer_4": "It helps in filtration of urine"
+          },
+          {
+            "question": "Which type of epithelium lines the inner mucosa of the ureters?",
+            "goodAnswer": "Transitional epithelium",
+            "wrongAnswer_1": "Simple squamous epithelium",
+            "wrongAnswer_2": "Stratified columnar epithelium",
+            "wrongAnswer_3": "Cuboidal epithelium",
+            "wrongAnswer_4": "Glandular epithelium"
+          }
+        ]
+      },
+      {
+        "title": "Bladder",
+        "quizzes": [
+          {
+            "question": "What type of epithelium lines the interior surface of the bladder?",
+            "goodAnswer": "Transitional cellular epithelium",
+            "wrongAnswer_1": "Stratified squamous epithelium",
+            "wrongAnswer_2": "Simple columnar epithelium",
+            "wrongAnswer_3": "Transitional columnar epithelium",
+            "wrongAnswer_4": "Cuboidal epithelium"
+          },
+          {
+            "question": "What is the maximum urine capacity of the adult human bladder?",
+            "goodAnswer": "500–600 mL",
+            "wrongAnswer_1": "200–300 mL",
+            "wrongAnswer_2": "100–200 mL",
+            "wrongAnswer_3": "600–800 mL",
+            "wrongAnswer_4": "900–1000 mL"
+          },
+          {
+            "question": "Which muscle is primarily responsible for the contraction of the bladder during urination?",
+            "goodAnswer": "Detrusor muscle",
+            "wrongAnswer_1": "External urethral sphincter",
+            "wrongAnswer_2": "Internal urethral sphincter",
+            "wrongAnswer_3": "Pelvic diaphragm",
+            "wrongAnswer_4": "Cremaster muscle"
+          }
+        ]
+      },
+      {
+        "title": "Urethra",
+        "quizzes": [
+          {
+            "question": "What is the typical length of the female urethra?",
+            "goodAnswer": "About 4 cm",
+            "wrongAnswer_1": "Approximately 10 cm",
+            "wrongAnswer_2": "Around 15 cm",
+            "wrongAnswer_3": "About 20 cm",
+            "wrongAnswer_4": "Approximately 30 cm"
+          },
+          {
+            "question": "What are the four regions of the male urethra?",
+            "goodAnswer": "Preprostatic, prostatic, membranous, and spongy or penile",
+            "wrongAnswer_1": "Prostatic, muscularis, mucosal, and transitional",
+            "wrongAnswer_2": "Vaginal, anal, penile, and membranous",
+            "wrongAnswer_3": "Spermatic, testicular, bulbar, and urethral",
+            "wrongAnswer_4": "Pre-sphincter, post-sphincter, penile, and transitional"
+          },
+          {
+            "question": "Which urethral structure is responsible for voluntary control during urination?",
+            "goodAnswer": "External urinary sphincter",
+            "wrongAnswer_1": "Internal urinary sphincter",
+            "wrongAnswer_2": "Detrusor muscle",
+            "wrongAnswer_3": "Trigone",
+            "wrongAnswer_4": "Urethral meatus"
+          }
+        ]
+      }
+    ]
+  }
+}

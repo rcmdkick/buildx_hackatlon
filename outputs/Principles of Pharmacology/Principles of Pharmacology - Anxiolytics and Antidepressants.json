@@ -1,0 +1,114 @@
+{
+ "mainTopic": {
+    "title": "Anxiolytics and Antidepressants",
+     "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+     "team_name": "CyberMed",
+     "subTopics": [
+       {
+         "title": "Depression: diagnosis and pathophysiology",
+         "quizzes": [
+           {
+             "question": "What is required for a diagnosis of depression according to DSM-IV?",
+             "goodAnswer": "Five symptoms present during the same 2-week period, significant distress or impairment in functioning, and not due to a substance or medical condition.",
+             "wrongAnswer_1": "Three symptoms present during the same 2-week period and linked to substance abuse.",
+             "wrongAnswer_2": "Seven symptoms present for one week and associated with bereavement.",
+             "wrongAnswer_3": "Two symptoms present during a one-month period with no functional impairment.",
+             "wrongAnswer_4": "Four symptoms present for three days resulting in minor social disturbances."
+           },
+           {
+             "question": "What is the current understanding of the pathophysiology of depression?",
+             "goodAnswer": "Unknown, may involve more than one mechanism with theories based on the amine hypothesis.",
+             "wrongAnswer_1": "Caused exclusively by structural brain abnormalities.",
+             "wrongAnswer_2": "Directly linked to elevated levels of dopamine.",
+             "wrongAnswer_3": "Primarily due to reduced hippocampal volume.",
+             "wrongAnswer_4": "Explained entirely by a single biomarker found postmortem."
+           }
+         ]
+       },
+       {
+         "title": "Treatment of Depression and Classes of Antidepressants",
+         "quizzes": [
+           {
+             "question": "What is the primary action of selective serotonin reuptake inhibitors (SSRIs)?",
+             "goodAnswer": "Inhibition of presynaptic reuptake of serotonin at central synapses.",
+             "wrongAnswer_1": "Blocking post-synaptic serotonin receptors.",
+             "wrongAnswer_2": "Inhibition of norepinephrine reuptake.",
+             "wrongAnswer_3": "Enhancing dopamine synthesis.",
+             "wrongAnswer_4": "Selective antagonism of synaptic GABA receptors."
+           },
+           {
+             "question": "Which class of antidepressants is known for potentially lethal overdoses?",
+             "goodAnswer": "Tricyclics and heterocyclics due to cardiac conduction disturbances.",
+             "wrongAnswer_1": "SSRIs because of severe anticholinergic effects.",
+             "wrongAnswer_2": "MAO inhibitors owing to serotonin depletion.",
+             "wrongAnswer_3": "Bupropion due to irreversible enzyme inhibition.",
+             "wrongAnswer_4": "Tricyclics for their interactions with MAO inhibitors."
+           }
+         ]
+       },
+       {
+         "title": "Benzodiazepines and Barbiturates",
+         "quizzes": [
+           {
+             "question": "How do benzodiazepines differ from barbiturates in their effects on GABA receptors?",
+             "goodAnswer": "Benzodiazepines increase frequency of channel opening, barbiturates prolong duration of opening.",
+             "wrongAnswer_1": "Benzodiazepines decrease conductance, barbiturates increase conductance.",
+             "wrongAnswer_2": "Both increase the frequency and duration of channel opening identically.",
+             "wrongAnswer_3": "Benzodiazepines act only on GABA-B receptors, barbiturates on GABA-A receptors.",
+             "wrongAnswer_4": "Barbiturates block GABA binding, while benzodiazepines enhance it."
+           },
+           {
+             "question": "What distinguishes benzodiazepines primarily in terms of clinical application?",
+             "goodAnswer": "Their profiles of distribution and half-life.",
+             "wrongAnswer_1": "Their ability to directly activate GABA channels.",
+             "wrongAnswer_2": "Their heightened potential for GABA receptor mutation.",
+             "wrongAnswer_3": "Their inhibitory effects on serotonin reuptake.",
+             "wrongAnswer_4": "Their competitive antagonism of dopamine receptors."
+           }
+         ]
+       },
+       {
+         "title": "Clinical use of sedatives",
+         "quizzes": [
+           {
+             "question": "Which benzodiazepine is typically used for short-term sedation in surgical procedures?",
+             "goodAnswer": "Midazolam administered intravenously with effects terminated by redistribution.",
+             "wrongAnswer_1": "Temazepam given orally for long-lasting sedation.",
+             "wrongAnswer_2": "Lorazepam via IV for amnestic syndrome treatment.",
+             "wrongAnswer_3": "Diazepam through IM for prolonged sedation.",
+             "wrongAnswer_4": "Flurazepam orally for immediate pre-surgery sedation."
+           },
+           {
+             "question": "What often leads to a short duration of action for sedatives?",
+             "goodAnswer": "Redistribution in the body, especially with highly lipophilic agents.",
+             "wrongAnswer_1": "Rapid kidney metabolism and clearance.",
+             "wrongAnswer_2": "Instantaneous breakdown by stomach acids.",
+             "wrongAnswer_3": "Exclusive binding to synaptic proteins.",
+             "wrongAnswer_4": "Delayed liver metabolism."
+           }
+         ]
+       },
+       {
+         "title": "Tolerance, cross tolerance, and addiction to sedative drugs",
+         "quizzes": [
+           {
+             "question": "What happens with chronic use of benzodiazepines or barbiturates?",
+             "goodAnswer": "Tolerance to all members of the class and cross-tolerance to others with potential for dependence.",
+             "wrongAnswer_1": "Instant adaptation leading to a permanent decrease in effectiveness.",
+             "wrongAnswer_2": "Increased effectiveness and reduced risk of dependence.",
+             "wrongAnswer_3": "Complete prevention of ethanol tolerance.",
+             "wrongAnswer_4": "Gradual sensitization with heightened drug response."
+           },
+           {
+             "question": "Why is withdrawal from barbiturates particularly dangerous?",
+             "goodAnswer": "It can lead to anxiety, agitation, seizures, and potentially lethal outcomes.",
+             "wrongAnswer_1": "Withdrawal results in severe hallucinations and permanent cognitive decline.",
+             "wrongAnswer_2": "It causes irreversible heart damage and systemic failure.",
+             "wrongAnswer_3": "Withdrawal effects do not last for more than a few hours.",
+             "wrongAnswer_4": "Withdrawal induces immediate full recovery without any side effects."
+           }
+         ]
+       }
+     ]
+   }
+ }

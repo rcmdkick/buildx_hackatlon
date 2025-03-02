@@ -1,0 +1,93 @@
+{
+ "mainTopic": {
+    "title": "Aortic regurgitation",
+     "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+     "team_name": "CyberMed",
+     "subTopics": [
+       {
+         "title": "Etiology, Pathophysiology",
+         "quizzes": [
+           {
+             "question": "What is a primary cause of chronic aortic regurgitation?",
+             "goodAnswer": "Rheumatic heart disease",
+             "wrongAnswer_1": "Viral infection",
+             "wrongAnswer_2": "Hypertension",
+             "wrongAnswer_3": "Diabetes mellitus",
+             "wrongAnswer_4": "Pulmonary hypertension"
+           },
+           {
+             "question": "Which mechanism primarily describes acute aortic regurgitation’s effect on the heart?",
+             "goodAnswer": "Sudden volume overload of the left ventricle",
+             "wrongAnswer_1": "Increased left atrial pressure",
+             "wrongAnswer_2": "Right ventricular hypertrophy",
+             "wrongAnswer_3": "Left atrial dilation",
+             "wrongAnswer_4": "Decreased cardiac output"
+           }
+         ]
+       },
+       {
+         "title": "Clinical features",
+         "quizzes": [
+           {
+             "question": "What is the hallmark physical exam finding in aortic regurgitation?",
+             "goodAnswer": "Diastolic murmur best heard along the left sternal border",
+             "wrongAnswer_1": "Systolic ejection murmur at the aortic area",
+             "wrongAnswer_2": "Loud P2 at the second left intercostal space",
+             "wrongAnswer_3": "Opening snap followed by a diastolic rumble",
+             "wrongAnswer_4": "Continuous machinery-like murmur"
+           },
+           {
+             "question": "Which symptom is commonly associated with chronic aortic regurgitation?",
+             "goodAnswer": "Exertional dyspnea",
+             "wrongAnswer_1": "Epistaxis",
+             "wrongAnswer_2": "Orthostatic hypotension",
+             "wrongAnswer_3": "Ankle swelling",
+             "wrongAnswer_4": "Nocturnal diarrhea"
+           }
+         ]
+       },
+       {
+         "title": "Diagnostic testing, Differential diagnosis",
+         "quizzes": [
+           {
+             "question": "What is the most definitive non-invasive test to assess aortic regurgitation?",
+             "goodAnswer": "Echocardiography",
+             "wrongAnswer_1": "Electrocardiogram",
+             "wrongAnswer_2": "Chest X-ray",
+             "wrongAnswer_3": "Stress test",
+             "wrongAnswer_4": "Pulmonary function test"
+           },
+           {
+             "question": "Which condition must be differentiated from aortic regurgitation due to similar murmur characteristics?",
+             "goodAnswer": "Pulmonary regurgitation",
+             "wrongAnswer_1": "Mitral stenosis",
+             "wrongAnswer_2": "Tricuspid regurgitation",
+             "wrongAnswer_3": "Atrial septal defect",
+             "wrongAnswer_4": "Ventricular septal defect"
+           }
+         ]
+       },
+       {
+         "title": "Management",
+         "quizzes": [
+           {
+             "question": "What is a primary surgical treatment option for severe aortic regurgitation?",
+             "goodAnswer": "Aortic valve replacement",
+             "wrongAnswer_1": "Balloon valvuloplasty",
+             "wrongAnswer_2": "Mitral valve replacement",
+             "wrongAnswer_3": "Coronary artery bypass graft",
+             "wrongAnswer_4": "Percutaneous coronary intervention"
+           },
+           {
+             "question": "Which medication is commonly used to manage acute aortic regurgitation?",
+             "goodAnswer": "Diuretics",
+             "wrongAnswer_1": "Beta-blockers",
+             "wrongAnswer_2": "ACE inhibitors",
+             "wrongAnswer_3": "Aspirin",
+             "wrongAnswer_4": "Calcium channel blockers"
+           }
+         ]
+       }
+     ]
+   }
+ }

@@ -1,0 +1,122 @@
+{
+  "mainTopic": {
+    "title": "Genital warts",
+    "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+    "team_name": "CyberMed",
+    "subTopics": [
+      {
+        "title": "Sites of Genital Warts",
+        "quizzes": [
+          {
+            "question": "Where are genital warts most commonly found in circumcised men?",
+            "goodAnswer": "On the shaft or base of the penis",
+            "wrongAnswer_1": "On the scrotum",
+            "wrongAnswer_2": "On the clitoris",
+            "wrongAnswer_3": "On the cervix",
+            "wrongAnswer_4": "On the urethra"
+          },
+          {
+            "question": "In women with genital warts, what percentage represents cervix involvement in more recent studies?",
+            "goodAnswer": "Between 16% and 64% (mean 34%)",
+            "wrongAnswer_1": "8%",
+            "wrongAnswer_2": "10% to 20%",
+            "wrongAnswer_3": "50% to 70%",
+            "wrongAnswer_4": "20% to 30%"
+          }
+        ]
+      },
+      {
+        "title": "Clinical Manifestations",
+        "quizzes": [
+          {
+            "question": "What are the characteristics of classic condylomata acuminata?",
+            "goodAnswer": "Pointed, cauliflower-like lesions found on moist surfaces",
+            "wrongAnswer_1": "Smooth, flat lesions found in dry areas",
+            "wrongAnswer_2": "Hard, wart-like lesions found on the cervix",
+            "wrongAnswer_3": "Vascular, soft lesions found only on the labia",
+            "wrongAnswer_4": "Dry, keratotic lesions found on penile shaft"
+          },
+          {
+            "question": "What type of genital warts lack the cauliflower appearance?",
+            "goodAnswer": "Smooth papular warts",
+            "wrongAnswer_1": "Keratotic genital warts",
+            "wrongAnswer_2": "Flat condylomata",
+            "wrongAnswer_3": "Condylomata acuminata",
+            "wrongAnswer_4": "Vascular penile warts"
+          }
+        ]
+      },
+      {
+        "title": "Signs and Symptoms",
+        "quizzes": [
+          {
+            "question": "Which symptom is NOT commonly associated with genital warts?",
+            "goodAnswer": "Ulceration",
+            "wrongAnswer_1": "Itching",
+            "wrongAnswer_2": "Vaginal discharge",
+            "wrongAnswer_3": "Burning",
+            "wrongAnswer_4": "Bleeding"
+          },
+          {
+            "question": "What might large masses of genital warts cause?",
+            "goodAnswer": "Mechanical obstruction",
+            "wrongAnswer_1": "Rapid weight loss",
+            "wrongAnswer_2": "Changes in skin color",
+            "wrongAnswer_3": "Sudden hair growth",
+            "wrongAnswer_4": "Increased blood pressure"
+          }
+        ]
+      },
+      {
+        "title": "Pregnancy",
+        "quizzes": [
+          {
+            "question": "Why might genital warts increase in size and number during pregnancy?",
+            "goodAnswer": "Due to reduced host cell-mediated immunity and steroid hormone effects",
+            "wrongAnswer_1": "Due to increased estrogen levels",
+            "wrongAnswer_2": "Due to complete remission",
+            "wrongAnswer_3": "Due to genetic mutations",
+            "wrongAnswer_4": "Due to lifestyle changes"
+          },
+          {
+            "question": "What is a common issue with vaginal warts in pregnancy?",
+            "goodAnswer": "Secondary infection",
+            "wrongAnswer_1": "Complete absence",
+            "wrongAnswer_2": "Increased sweating",
+            "wrongAnswer_3": "Decrease in size",
+            "wrongAnswer_4": "Spontaneous bleeding"
+          }
+        ]
+      },
+      {
+        "title": "Diagnosis, Differential Diagnosis",
+        "quizzes": [
+          {
+            "question": "What is the primary method for diagnosing external genital warts?",
+            "goodAnswer": "Visual inspection in bright light",
+            "wrongAnswer_1": "HPV DNA testing",
+            "wrongAnswer_2": "Biopsy in all cases",
+            "wrongAnswer_3": "Blood tests",
+            "wrongAnswer_4": "Colposcopy for all inspections"
+          },
+          {
+            "question": "Which lesions need to be biopsied when diagnosing genital warts?",
+            "goodAnswer": "Lesions larger than 1 cm or those that are pigmented",
+            "wrongAnswer_1": "All non-pigmented lesions",
+            "wrongAnswer_2": "Lesions that are asymptomatic",
+            "wrongAnswer_3": "Smooth papular warts",
+            "wrongAnswer_4": "Small, uniform lesions"
+          },
+          {
+            "question": "Which other condition can present symptoms similar to genital warts?",
+            "goodAnswer": "Secondary syphilis (condylomata lata)",
+            "wrongAnswer_1": "Chlamydia",
+            "wrongAnswer_2": "Herpes Simplex Virus",
+            "wrongAnswer_3": "Bacterial vaginosis",
+            "wrongAnswer_4": "Urinary tract infection"
+          }
+        ]
+      }
+    ]
+  }
+}

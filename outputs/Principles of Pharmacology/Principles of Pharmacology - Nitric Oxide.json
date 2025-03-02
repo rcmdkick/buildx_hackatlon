@@ -1,0 +1,72 @@
+{
+  "mainTopic": {
+    "title": "Nitric Oxide",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "team_name": "CyberMed",
+    "subTopics": [
+      {
+        "title": "Overview of nitric oxide",
+        "quizzes": [
+          {
+            "question": "How is nitric oxide (NO) synthesized in vascular endothelial cells?",
+            "goodAnswer": "NO is synthesized from the terminal guanidine nitrogen of L-arginine and diffuses into vascular smooth muscle.",
+            "wrongAnswer_1": "NO is synthesized from carbon dioxide and water in vascular endothelial cells.",
+            "wrongAnswer_2": "NO is directly absorbed from the surrounding atmosphere by vascular endothelial cells.",
+            "wrongAnswer_3": "NO is synthesized from the terminal guanidine nitrogen of L-lysine in the liver.",
+            "wrongAnswer_4": "NO is synthesized through the cyclooxygenase pathway in vascular endothelial cells."
+          },
+          {
+            "question": "What role does nitric oxide (NO) play in the pulmonary vasculature?",
+            "goodAnswer": "NO causes relaxation of pulmonary vascular smooth muscle, reducing pulmonary hypertension.",
+            "wrongAnswer_1": "NO causes contraction of pulmonary vascular smooth muscle, increasing pulmonary hypertension.",
+            "wrongAnswer_2": "NO causes oxidation of pulmonary endothelial cells, leading to increased vascular resistance.",
+            "wrongAnswer_3": "NO inhibits gas exchange in the alveoli, resulting in reduced oxygen uptake.",
+            "wrongAnswer_4": "NO binds to hemoglobin, reducing oxygen transport capacity."
+          }
+        ]
+      },
+      {
+        "title": "Nitric Oxide inhalation in ARDS",
+        "quizzes": [
+          {
+            "question": "In ARDS, how does inhaled nitric oxide (NO) improve arterial oxygenation?",
+            "goodAnswer": "Inhaled NO improves ventilation-perfusion matching by causing selective vasodilation in well-ventilated lung regions.",
+            "wrongAnswer_1": "Inhaled NO reduces oxygen consumption in body tissues, thereby increasing arterial oxygenation.",
+            "wrongAnswer_2": "Inhaled NO increases the solubility of oxygen in plasma, enhancing oxygen delivery to tissues.",
+            "wrongAnswer_3": "Inhaled NO directly increases the production of red blood cells, improving oxygen transport.",
+            "wrongAnswer_4": "Inhaled NO binds with carbon dioxide, reducing the respiratory stimulus and enhancing oxygen levels."
+          },
+          {
+            "question": "Why is inhaled nitric oxide (NO) preferred over intravenous vasodilators in ARDS?",
+            "goodAnswer": "Inhaled NO does not produce systemic vasodilation and specifically targets ventilated alveoli.",
+            "wrongAnswer_1": "Inhaled NO is cheaper and easier to administer than intravenous vasodilators.",
+            "wrongAnswer_2": "Inhaled NO causes sustained systemic effects, unlike intravenous vasodilators.",
+            "wrongAnswer_3": "Inhaled NO increases overall vascular resistance, unlike intravenous vasodilators.",
+            "wrongAnswer_4": "Inhaled NO is less effective than intravenous vasodilators but has fewer side effects."
+          }
+        ]
+      },
+      {
+        "title": "Nitric Oxide inhalation in neonatal respiratory failure",
+        "quizzes": [
+          {
+            "question": "How does inhaled nitric oxide (NO) therapy benefit infants with persistent pulmonary hypertension of the newborn (PPHN)?",
+            "goodAnswer": "Inhaled NO reduces pulmonary vascular resistance, improving systemic arterial oxygenation.",
+            "wrongAnswer_1": "Inhaled NO increases systemic blood pressure, indirectly stimulating lung function.",
+            "wrongAnswer_2": "Inhaled NO directly improves the muscle strength of the diaphragm, enhancing breathing.",
+            "wrongAnswer_3": "Inhaled NO acts as a bronchodilator, opening airways in the upper respiratory tract.",
+            "wrongAnswer_4": "Inhaled NO promotes surfactant production, thereby increasing lung compliance."
+          },
+          {
+            "question": "What is a notable effect of inhaled nitric oxide (NO) in neonatal patients?",
+            "goodAnswer": "Inhaled NO selectively reduces pulmonary hypertension without systemic hypotension.",
+            "wrongAnswer_1": "Inhaled NO causes systemic hypotension, necessitating additional supportive therapy.",
+            "wrongAnswer_2": "Inhaled NO increases metabolic rate, thereby heightening oxygen demand.",
+            "wrongAnswer_3": "Inhaled NO increases heart rate, which improves oxygen delivery across the body.",
+            "wrongAnswer_4": "Inhaled NO exerts a strong immunosuppressive effect, reducing neonatal infections."
+          }
+        ]
+      }
+    ]
+  }
+}

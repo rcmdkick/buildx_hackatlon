@@ -1,0 +1,87 @@
+{
+ "mainTopic": {
+    "title": "Transplantation",
+    "content_info": "",
+    "team_name": "CyberMed",
+    "subTopics": [
+      {
+         "title": "ABO Matching",
+         "quizzes": [
+           {
+             "question": "Why is ABO matching crucial in organ transplantation?",
+             "goodAnswer": "It prevents immune reactions that can occur if donor and recipient blood types are incompatible.",
+             "wrongAnswer_1": "It ensures that both donor and recipient have the same blood pressure levels.",
+             "wrongAnswer_2": "It helps to speed up the transplant procedure.",
+             "wrongAnswer_3": "It matches the donor's and recipient's genetic profiles.",
+             "wrongAnswer_4": "It reduces the chances of organ rejection by matching tissue types."
+           }
+         ]
+       },
+       {
+         "title": "Histocompatibility",
+         "quizzes": [
+           {
+             "question": "What is the primary purpose of histocompatibility testing in transplantation?",
+             "goodAnswer": "To assess compatibility between donor and recipient tissue to prevent rejection.",
+             "wrongAnswer_1": "To determine the age of the donor tissue.",
+             "wrongAnswer_2": "To match height and weight between donor and recipient.",
+             "wrongAnswer_3": "To check the donor's medical history.",
+             "wrongAnswer_4": "To evaluate physical appearance similarities between donor and recipient."
+           }
+         ]
+       },
+       {
+         "title": "Immunosuppression",
+         "quizzes": [
+           {
+             "question": "Which is a common goal of immunosuppressive therapy in transplantation?",
+             "goodAnswer": "To prevent the immune system from rejecting the transplanted organ.",
+             "wrongAnswer_1": "To completely eliminate the recipient's immune system.",
+             "wrongAnswer_2": "To enhance the production of antibodies.",
+             "wrongAnswer_3": "To increase inflammation around the transplanted organ.",
+             "wrongAnswer_4": "To boost the recipient's DNA repair mechanisms."
+           }
+         ]
+       },
+       {
+         "title": "Bone Marrow Transplantation",
+         "quizzes": [
+           {
+             "question": "What is the primary role of bone marrow transplantation?",
+             "goodAnswer": "To replace damaged or destroyed bone marrow with healthy cells.",
+             "wrongAnswer_1": "To transfer bone structure from donor to recipient.",
+             "wrongAnswer_2": "To improve the recipient's skeletal strength.",
+             "wrongAnswer_3": "To alter the recipient's blood type.",
+             "wrongAnswer_4": "To generate new nerve cells in the body."
+           }
+         ]
+       },
+       {
+         "title": "Hematopoietic Stem Cell Transplantation",
+         "quizzes": [
+           {
+             "question": "What is the significance of hematopoietic stem cell transplantation?",
+             "goodAnswer": "It is used to regenerate the patient's blood and immune cells.",
+             "wrongAnswer_1": "It is aimed at repairing broken bones in the recipient.",
+             "wrongAnswer_2": "It assists in the digestion process.",
+             "wrongAnswer_3": "It focuses on restoring lung function.",
+             "wrongAnswer_4": "It supports muscle regeneration."
+           }
+         ]
+       },
+       {
+         "title": "Transplant Complications",
+         "quizzes": [
+           {
+             "question": "Which is a common complication post-transplantation?",
+             "goodAnswer": "Organ rejection due to immune response.",
+             "wrongAnswer_1": "Permanent height increase in the recipient.",
+             "wrongAnswer_2": "Enhancement of cognitive abilities.",
+             "wrongAnswer_3": "Weight loss due to increased metabolism.",
+             "wrongAnswer_4": "Instantaneous healing of pre-existing conditions."
+           }
+         ]
+       }
+     ]
+   }
+ }
