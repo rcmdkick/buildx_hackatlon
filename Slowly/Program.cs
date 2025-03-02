@@ -13,26 +13,18 @@ namespace Slowly
         private static readonly string PromptPath = "..\\..\\..\\..\\prompts.txt"; // Path to your prompt file
         private static readonly string outputPath = "..\\..\\..\\..\\/actual/output.json"; // Path to your prompt file
         private static readonly string metadataPath = "..\\..\\..\\..\\/actual/metadata.json"; // Path to your prompt file
+        private static readonly string inputFolderPath = "..\\..\\..\\..\\/inputs";
+        private static readonly string outputFolderPath = "..\\..\\..\\..\\/outputs";
 
         static void Main(string[] args)
         {
-            ChatClient client = new(model: "gpt-4o", apiKey: apiKey);
-            string extractedText = ExtractTextFromPdf(pdfPath);
-
-            CollectionResult<StreamingChatCompletionUpdate> completionUpdates = client.CompleteChatStreaming(GetInstructionPrompt()+"\n\n"+extractedText);
-            string output = "";
-            Console.Write($"[ASSISTANT]: ");
-            foreach (StreamingChatCompletionUpdate completionUpdate in completionUpdates)
+            string[] subdirectoryEntries = Directory.GetDirectories(inputFolderPath);
+            foreach (string subdirectory in subdirectoryEntries)
             {
-                string newUpdate = "";
-                if (completionUpdate.ContentUpdate.Count > 0)
-                {
-                    newUpdate += completionUpdate.ContentUpdate[0].Text;
-                    Console.Write(newUpdate);
-                    output += newUpdate;
-                }
+                string folderName = new DirectoryInfo(subdirectory).Name;
+                ProcessSubtopic(subdirectory,folderName);
             }
-            File.WriteAllText(outputPath, output);
+
         }
         static string ExtractTextFromPdf(string pdfPath)
         {
@@ -50,6 +42,47 @@ namespace Slowly
         static string GetInstructionPrompt()
         { 
         return File.ReadAllText(PromptPath);
+        }
+        static void ProcessSubtopic(string folderPath, string topicname)
+        {
+            ChatClient client = new(model: "gpt-4o", apiKey: apiKey);
+            string extractedText = ExtractTextFromPdf(pdfPath);
+
+            CollectionResult<StreamingChatCompletionUpdate> completionUpdates = client.CompleteChatStreaming(GetInstructionPrompt() + "\n\n" + extractedText);
+            string output = "";
+            Console.Write($"[ASSISTANT]: ");
+            foreach (StreamingChatCompletionUpdate completionUpdate in completionUpdates)
+            {
+                string newUpdate = "";
+                if (completionUpdate.ContentUpdate.Count > 0)
+                {
+                    newUpdate += completionUpdate.ContentUpdate[0].Text;
+                    Console.Write(newUpdate);
+                    output += newUpdate;
+                }
+            }
+            File.WriteAllText(folderPath+"/"+topicname+".json", output);
+        }
+        static string FindSpecificFile(string directoryPath, string extension)
+        {
+            try
+            {
+                // Define search patterns for PDF and JSON files
+                string searchPattern = extension;
+
+
+                    // Retrieve files matching the current pattern
+                    string file = Directory.GetFiles(directoryPath,searchPattern)[0];
+
+                    Console.WriteLine($"Found file: {file}");
+                return file;
+                
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine($"An error occurred: {e.Message}");
+            }
+            return "";
         }
     }
 }
