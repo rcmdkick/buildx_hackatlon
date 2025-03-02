@@ -3,7 +3,6 @@ using System.Reflection.PortableExecutable;
 using iTextSharp.text.pdf;
 using iTextSharp.text.pdf.parser;
 using System.ClientModel;
-using System.IO;
 namespace Slowly
 {
     internal class Program
@@ -37,17 +36,28 @@ namespace Slowly
         }
         static string ExtractTextFromPdf(string folderpath)
         {
-            string pdfpath = FindSpecificFile(folderpath,"*.pdf");
-            using (PdfReader reader = new PdfReader(pdfPath))
+            string[] pdfpaths = FindSpecificFiles(folderpath,"*.pdf");
+            string extracted_text = "";
+            foreach (string file in pdfpaths)
             {
-                StringWriter textWriter = new StringWriter();
-                for (int i = 1; i <= reader.NumberOfPages; i++)
+                try
                 {
-                    string text = PdfTextExtractor.GetTextFromPage(reader, i);
-                    textWriter.WriteLine(text);
+                    using (PdfReader reader = new PdfReader(file))
+                    {
+                        string text = string.Empty;
+                        for (int page = 1; page <= reader.NumberOfPages; page++)
+                        {
+                            text += PdfTextExtractor.GetTextFromPage(reader, page);
+                        }
+                        extracted_text+= text;
+                    }
                 }
-                return textWriter.ToString();
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"An error occurred while processing {file}: {ex.Message}");
+                }
             }
+            return extracted_text;
         }
         static string GetInstructionPrompt()
         { 
@@ -77,7 +87,7 @@ namespace Slowly
             }
             File.WriteAllText(System.IO.Path.Combine(outputpath,topicname)+".json", output);
         }
-        static string FindSpecificFile(string directoryPath, string extension)
+        static string[] FindSpecificFiles(string directoryPath, string extension)
         {
             try
             {
@@ -85,22 +95,24 @@ namespace Slowly
                 string searchPattern = extension;
 
 
-                    // Retrieve files matching the current pattern
-                    string file = Directory.GetFiles(directoryPath,searchPattern)[0];
-
+                // Retrieve files matching the current pattern
+                string[] files = Directory.GetFiles(directoryPath, searchPattern, SearchOption.TopDirectoryOnly);
+                foreach (string file in files)
+                {
                     Console.WriteLine($"Found file: {file}");
-                return file;
+                }
+                return files;
                 
             }
             catch (Exception e)
             {
                 Console.WriteLine($"An error occurred: {e.Message}");
             }
-            return "";
+            return null;
         }
         static string GetMetadata(string folder)
         {
-            string metadataFile = FindSpecificFile(folder, "*.json");
+            string metadataFile = FindSpecificFiles(folder, "*.json")[0];
             return File.ReadAllText(metadataFile);
         }
     }
