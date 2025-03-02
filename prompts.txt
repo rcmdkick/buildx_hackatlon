@@ -1,0 +1,49 @@
+0. MOST IMPORTANT RULE: just genrate the json, Nothing else!!
+1. Take the raw extracted text from the PDF and perform preprocessing. Remove extraneous headers, footers, page numbers, and formatting noise. Organize the cleaned text into sections based on slide titles, headings, or natural breaks. Output the preprocessed text in a structured format (e.g., as a list of sections with titles and their corresponding text)."
+2. You are provided with an input JSON file that contains the main topic and a list of subtopics. Using the preprocessed text from Step 2, map sections of the text to the appropriate subtopics. For example, if the subtopics are 'Arachidonic acid cascade: Derivates, enzimes and pathways', 'Biological Functions of Arachidonic Acid Products', and 'NSAIDS', assign text passages relevant to each topic accordingly. Provide an outline that shows each subtopic and the corresponding extracted content."
+3. For each subtopic and its assigned content from Step 3, identify and summarize the core, must-know information. Focus on essential definitions, mechanisms, enzyme names, pathway products, and key biological functions. Generate a concise summary (in bullet points or short paragraphs) that captures the central concepts needed for revision."
+4. Based on the summaries for each subtopic from Step 4, generate between 3 and 14 revision quiz questions for each subtopic. Each revision question must be self-contained (i.e., the question and the correct answer can stand alone as a flashcard). For every quiz question, produce:
+- A clear question stem that integrates several related facts.
+- One correct answer.
+- Four distractors that are plausible alternatives (ensure they are similar in length and structure to the correct answer, incorporate common misconceptions, and are not mere rephrasings).
+
+For example, if the core content describes the differences between COX-1 and COX-2, create a question that asks how they differ and what their product profiles are. Output the quiz questions in a list format, organized under their respective subtopics."
+6. "Using the main topic, subtopic titles, and generated quiz questions from Steps 3–5, compile a structured JSON output file with the following format:
+
+```json
+{
+ "mainTopic": {
+    "title": "<Main Topic Title>",
+     "content_info": "<Optional description if available>",
+     "team_name": "CyberMed",
+     "subTopics": [
+       {
+         "title": "<Subtopic Title>",
+         "quizzes": [
+           {
+             "question": "<Quiz question>",
+             "goodAnswer": "<Correct answer>",
+             "wrongAnswer_1": "<Distractor 1>",
+             "wrongAnswer_2": "<Distractor 2>",
+             "wrongAnswer_3": "<Distractor 3>",
+             "wrongAnswer_4": "<Distractor 4>"
+           },
+           ...
+         ]
+       },
+       ...
+     ]
+   }
+ }
+ ```
+ 
+ Ensure that all subtopics from the input JSON are included, and that each quiz is properly structured. Return only the final JSON output."
+7. "Review the generated JSON file to ensure:
+ - Each subtopic from the input JSON is present.
+ - Each quiz question is self-contained and integrates core content.
+ - Each quiz includes one correct answer and four well-crafted distractors.
+ - The overall structure matches the provided template.
+If any revisions are needed, iterate on Steps 4 and 5 until the output meets the quality standards for revision questions."
+
+8. Once all steps are completed, the final JSON output will be generated. This JSON file will include the main topic, subtopic titles, and a list of revision quizzes for each subtopic, each with one correct answer and four distractors.
+9. Keep the "team_name" is it is showed in the example, 6. step

@@ -1,0 +1,112 @@
+Below is an example of a multi‐step prompt chain to process PDF files (including OCR on images), extract the core content, and generate a structured JSON output with main topic/subtopic titles and revision quizzes (each with one correct answer and four distractors).
+
+---
+
+### **Step 1: PDF Processing & OCR Extraction**
+
+**Prompt 1:**  
+> "You are given a PDF file that may contain both text and images (e.g., diagrams, handwritten notes). Use an OCR engine to extract all textual content from the PDF. Ensure that text embedded in images is recognized and transcribed accurately. Provide a complete transcription of all the extracted text, preserving slide headings, labels, and any text formatting cues."
+
+*Objective:* Extract full, raw text content (including OCR of images) from the PDF file.
+
+---
+
+### **Step 2: Preprocessing the Extracted Data**
+
+**Prompt 2:**  
+> "Take the raw extracted text from the PDF and perform preprocessing. Remove extraneous headers, footers, page numbers, and formatting noise. Organize the cleaned text into sections based on slide titles, headings, or natural breaks. Output the preprocessed text in a structured format (e.g., as a list of sections with titles and their corresponding text)."
+
+*Objective:* Clean and segment the content into manageable pieces.
+
+---
+
+### **Step 3: Matching Content to Main Topic and Subtopics**
+
+**Prompt 3:**  
+> "You are provided with an input JSON file that contains the main topic and a list of subtopics. Using the preprocessed text from Step 2, map sections of the text to the appropriate subtopics. For example, if the subtopics are 'Arachidonic acid cascade: Derivates, enzimes and pathways', 'Biological Functions of Arachidonic Acid Products', and 'NSAIDS', assign text passages relevant to each topic accordingly. Provide an outline that shows each subtopic and the corresponding extracted content."
+
+*Objective:* Classify the extracted data into the provided subtopic structure.
+
+---
+
+### **Step 4: Core Content Extraction for Each Subtopic**
+
+**Prompt 4:**  
+> "For each subtopic and its assigned content from Step 3, identify and summarize the core, must-know information. Focus on essential definitions, mechanisms, enzyme names, pathway products, and key biological functions. Generate a concise summary (in bullet points or short paragraphs) that captures the central concepts needed for revision."
+
+*Objective:* Extract and summarize the key points for each subtopic.
+
+---
+
+### **Step 5: Generating Revision Quiz Questions**
+
+**Prompt 5:**  
+> "Based on the summaries for each subtopic from Step 4, generate between 3 and 14 revision quiz questions for each subtopic. Each revision question must be self-contained (i.e., the question and the correct answer can stand alone as a flashcard). For every quiz question, produce:
+> - A clear question stem that integrates several related facts.
+> - One correct answer.
+> - Four distractors that are plausible alternatives (ensure they are similar in length and structure to the correct answer, incorporate common misconceptions, and are not mere rephrasings).
+> 
+> For example, if the core content describes the differences between COX-1 and COX-2, create a question that asks how they differ and what their product profiles are. Output the quiz questions in a list format, organized under their respective subtopics."
+
+*Objective:* Create revision questions that reflect the core information, following revision guidelines and quality distractor standards.
+
+---
+
+### **Step 6: Formatting the Final Output as JSON**
+
+**Prompt 6:**  
+> "Using the main topic, subtopic titles, and generated quiz questions from Steps 3–5, compile a structured JSON output file with the following format:
+> 
+> ```json
+> {
+>   "mainTopic": {
+>     "title": "<Main Topic Title>",
+>     "content_info": "<Optional description if available>",
+>     "subTopics": [
+>       {
+>         "title": "<Subtopic Title>",
+>         "quizzes": [
+>           {
+>             "question": "<Quiz question>",
+>             "goodAnswer": "<Correct answer>",
+>             "wrongAnswer_1": "<Distractor 1>",
+>             "wrongAnswer_2": "<Distractor 2>",
+>             "wrongAnswer_3": "<Distractor 3>",
+>             "wrongAnswer_4": "<Distractor 4>"
+>           },
+>           ...
+>         ]
+>       },
+>       ...
+>     ]
+>   }
+> }
+> ```
+> 
+> Ensure that all subtopics from the input JSON are included, and that each quiz is properly structured. Return only the final JSON output."
+
+*Objective:* Assemble all information into the required JSON format.
+
+---
+
+### **Step 7: Quality Review (Optional)**
+
+**Prompt 7:**  
+> "Review the generated JSON file to ensure:
+> - Each subtopic from the input JSON is present.
+> - Each quiz question is self-contained and integrates core content.
+> - Each quiz includes one correct answer and four well-crafted distractors.
+> - The overall structure matches the provided template.
+> If any revisions are needed, iterate on Steps 4 and 5 until the output meets the quality standards for revision questions."
+
+*Objective:* Validate and refine the output for accuracy and quality.
+
+---
+
+### **Final Output**
+
+Once all steps are completed, the final JSON output will be generated. This JSON file will include the main topic, subtopic titles, and a list of revision quizzes for each subtopic, each with one correct answer and four distractors.
+
+---
+
+This prompt chain allows a system to process complex PDF files with embedded images, extract the necessary information using OCR, organize and summarize core content by subtopic, generate revision-style quiz questions, and finally produce a structured JSON output suitable for educational revision.
