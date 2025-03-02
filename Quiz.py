@@ -14,7 +14,7 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 def extract_text_from_pdf(pdf_path):
     """Extracts text from a PDF file."""
     text = ""
-    with open(pdf_path, "rb") as file:
+    with open("inputs/Anatomy/Anatomy - Accessory digestive organs/Copy of Accessory digestive organs.pdf", "rb") as file:
         reader = PyPDF2.PdfReader(file)
         for page in reader.pages:
             text += page.extract_text() + "\n"
@@ -36,7 +36,7 @@ def process_materials(json_metadata, pdf_files):
     if not os.path.exists(json_metadata):
         print(f"Error: {json_metadata} not found. Creating an empty file...")
         with open(json_metadata, "w") as file:
-            file.write("{}")  # Empty JSON object
+            file.read()  # input Json FILE
     
     with open(json_metadata, 'r') as file:
         metadata = json.load(file)
@@ -55,10 +55,10 @@ def process_materials(json_metadata, pdf_files):
 def save_quiz_to_json(quiz_data, output_file):
     """Saves generated quiz data to a JSON file."""
     with open(output_file, 'w') as file:
-        json.dump(quiz_data, file, indent=4)
+        json.dump(quiz_data, file, indet=4)
     print(f"Quiz saved to {output_file}")
 
 # Example Usage
 pdf_files = ["lecture1.pdf", "lecture2.pdf"]
-quiz_data = process_materials("metadata.json", pdf_files)
+quiz_data = process_materials("reposbuildx_hackatlon", pdf_files)
 save_quiz_to_json(quiz_data, "quiz_output.json")

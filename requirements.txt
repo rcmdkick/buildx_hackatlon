@@ -1,0 +1,9 @@
+langchain
+langchain-community
+numpy
+openai
+PyPDF2
+tiktoken
+zstandard
+colorama
+greenlet
