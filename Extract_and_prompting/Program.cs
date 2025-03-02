@@ -9,6 +9,7 @@ using iTextSharp.text.pdf.parser;
 using OpenAI.API;
 using OpenAI;
 using System.Drawing;
+using SkiaSharp;
 
 namespace Extract_and_prompting
 {
@@ -71,11 +72,16 @@ namespace Extract_and_prompting
                                     {
                                         using (MemoryStream memStream = new MemoryStream(bytes))
                                         {
-                                            System.Drawing.Image img = System.Drawing.Image.FromStream(memStream);
+                                            SKBitmap bitmap = SKBitmap.Decode(memStream);
                                             if (!Directory.Exists(outputFolder))
                                                 Directory.CreateDirectory(outputFolder);
-                                            string path = Path.Combine(outputFolder, $"Image_Page_{i}_{name}.png");
-                                            img.Save(path, System.Drawing.Imaging.ImageFormat.Png);
+                                            string path = System.IO.Path.Combine(outputFolder, $"Image_Page_{i}_{name}.png");
+                                            using (var image = SKImage.FromBitmap(bitmap))
+                                            using (var data = image.Encode(SKEncodedImageFormat.Png, 100)) // 100 = max quality
+                                            using (var stream = File.OpenWrite(path))
+                                            {
+                                                data.SaveTo(stream);
+                                            }
                                             Console.WriteLine($"Image saved: {path}");
                                         }
                                     }
@@ -91,7 +97,7 @@ namespace Extract_and_prompting
         {
             string apiKey = "YOUR_OPENAI_API_KEY"; // Replace with your OpenAI API key
             var openAiApi = new OpenAIAPI(apiKey);
-            var chatRequest = new OpenAI_API.Chat.ChatRequest
+            var chatRequest = new OpenAI.Chat
             {
                 Model = OpenAI_API.Models.Model.ChatGPTTurbo,
                 Temperature = 0.7,

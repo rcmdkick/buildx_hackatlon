@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\Co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extract_and_prompting", "Extract_and_prompting\Extract_and_prompting.csproj", "{9EF13B91-492C-49C6-A737-C3C2B6A0B4AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slowly", "Slowly\Slowly.csproj", "{39882123-298B-4C9F-A8AC-2D1DC5F8B113}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9EF13B91-492C-49C6-A737-C3C2B6A0B4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EF13B91-492C-49C6-A737-C3C2B6A0B4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EF13B91-492C-49C6-A737-C3C2B6A0B4AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39882123-298B-4C9F-A8AC-2D1DC5F8B113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39882123-298B-4C9F-A8AC-2D1DC5F8B113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39882123-298B-4C9F-A8AC-2D1DC5F8B113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39882123-298B-4C9F-A8AC-2D1DC5F8B113}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

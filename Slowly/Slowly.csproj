@@ -8,10 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="iTextSharp" Version="5.5.13.4" />
     <PackageReference Include="OpenAI" Version="2.1.0" />
-    <PackageReference Include="OpenAI.API" Version="1.0.0" />
-    <PackageReference Include="SkiaSharp" Version="3.116.1" />
   </ItemGroup>
 
 </Project>
