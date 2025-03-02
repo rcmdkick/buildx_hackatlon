@@ -17,7 +17,7 @@ namespace Extract_and_prompting
     {
         static async Task Main(string[] args)
         {
-            string pdfPath = "sample.pdf"; // Path to your PDF file
+            string pdfPath = "..\\..\\..\\..\\lecture1.pdf"; // Path to your PDF file
             string extractedText = ExtractTextFromPdf(pdfPath);
             Console.WriteLine("Extracted Text:\n" + extractedText);
 
@@ -26,8 +26,8 @@ namespace Extract_and_prompting
 
             // Interact with OpenAI's ChatGPT
             string prompt = "Based on the following text, provide a summary:\n\n" + extractedText;
-            string chatGptResponse = await GetChatGptResponse(prompt);
-            Console.WriteLine("ChatGPT Response:\n" + chatGptResponse);
+            //string chatGptResponse = await GetChatGptResponse(prompt);
+            //Console.WriteLine("ChatGPT Response:\n" + chatGptResponse);
         }
 
         static string ExtractTextFromPdf(string pdfPath)
@@ -92,7 +92,7 @@ namespace Extract_and_prompting
                 }
             }
         }
-
+        /*
         static async Task<string> GetChatGptResponse(string prompt)
         {
             string apiKey = "YOUR_OPENAI_API_KEY"; // Replace with your OpenAI API key
@@ -120,5 +120,6 @@ namespace Extract_and_prompting
             var chatResponse = await openAiApi.Chat.CreateChatCompletionAsync(chatRequest);
             return chatResponse.Choices[0].Message.Content.Trim();
         }
+        */
     }
 }
