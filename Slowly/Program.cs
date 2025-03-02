@@ -2,6 +2,7 @@
 using System.Reflection.PortableExecutable;
 using iTextSharp.text.pdf;
 using iTextSharp.text.pdf.parser;
+using System.ClientModel;
 namespace Slowly
 {
     internal class Program
@@ -9,6 +10,8 @@ namespace Slowly
         private static readonly string apikeyFile = @"..\..\..\..\/apikeys/openai.txt";
         private static readonly string apiKey = File.ReadAllText(apikeyFile);
         private static readonly string pdfPath = "..\\..\\..\\..\\lecture1.pdf"; // Path to your PDF file
+        private static readonly string PromptPath = "..\\..\\..\\..\\prompt.txt"; // Path to your prompt file
+
         static void Main(string[] args)
         {
             
@@ -16,9 +19,16 @@ namespace Slowly
             ChatClient client = new(model: "gpt-4o", apiKey: apiKey);
             string extractedText = ExtractTextFromPdf(pdfPath);
 
-            ChatCompletion completion = client.CompleteChat("summarise this:\n\n"+extractedText);
+            CollectionResult<StreamingChatCompletionUpdate> completionUpdates = client.CompleteChatStreaming(GetInstructionPrompt()+"\n\n"+extractedText);
 
-            Console.WriteLine($"[ASSISTANT]: {completion.Content[0].Text}");
+            Console.Write($"[ASSISTANT]: ");
+            foreach (StreamingChatCompletionUpdate completionUpdate in completionUpdates)
+            {
+                if (completionUpdate.ContentUpdate.Count > 0)
+                {
+                    Console.Write(completionUpdate.ContentUpdate[0].Text);
+                }
+            }
         }
         static string ExtractTextFromPdf(string pdfPath)
         {
@@ -32,6 +42,10 @@ namespace Slowly
                 }
                 return textWriter.ToString();
             }
+        }
+        static string GetInstructionPrompt()
+        { 
+        return File.ReadAllText(PromptPath);
         }
     }
 }
